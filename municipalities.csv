@@ -1,0 +1,2497 @@
+id,id_powiatu,nazwa
+0,0,gm. Boles³awiec
+1,0,gm. Gromadka
+2,0,gm. Nowogrodziec
+3,0,gm. Osiecznica
+4,0,gm. Warta Boles³awiecka
+5,0,m. Boles³awiec
+6,1,gm. Dzier¿oniów
+7,1,gm. £agiewniki
+8,1,gm. Niemcza
+9,1,m. Bielawa
+10,1,m. Dzier¿oniów
+11,1,m. Pieszyce
+12,1,m. Pi³awa Górna
+13,2,gm. G³ogów
+14,2,gm. Jerzmanowa
+15,2,gm. Kotla
+16,2,gm. Pêc³aw
+17,2,gm. ¯ukowice
+18,2,m. G³ogów
+19,3,gm. Góra
+20,3,gm. Jemielno
+21,3,gm. Niechlów
+22,3,gm. W¹sosz
+23,4,gm. Bolków
+24,4,gm. Mêcinka
+25,4,gm. Mœciwojów
+26,4,gm. Paszowice
+27,4,gm. W¹dro¿e Wielkie
+28,4,m. Jawor
+29,5,Jelenia Góra
+30,6,gm. Janowice Wielkie
+31,6,gm. Je¿ów Sudecki
+32,6,gm. Mys³akowice
+33,6,gm. Podgórzyn
+34,6,gm. Stara Kamienica
+35,6,m. Karpacz
+36,6,m. Kowary
+37,6,m. Piechowice
+38,6,m. Szklarska Porêba
+39,7,gm. Kamienna Góra
+40,7,gm. Lubawka
+41,7,gm. Marciszów
+42,7,m. Kamienna Góra
+43,8,gm. Bystrzyca K³odzka
+44,8,gm. K³odzko
+45,8,gm. L¹dek-Zdrój
+46,8,gm. Lewin K³odzki
+47,8,gm. Miêdzylesie
+48,8,gm. Nowa Ruda
+49,8,gm. Radków
+50,8,gm. Stronie Œl¹skie
+51,8,gm. Szczytna
+52,8,m. Duszniki-Zdrój
+53,8,m. K³odzko
+54,8,m. Kudowa-Zdrój
+55,8,m. Nowa Ruda
+56,8,m. Polanica-Zdrój
+57,9,Legnica
+58,10,gm. Chojnów
+59,10,gm. Krotoszyce
+60,10,gm. Kunice
+61,10,gm. Legnickie Pole
+62,10,gm. Mi³kowice
+63,10,gm. Prochowice
+64,10,gm. Ruja
+65,10,m. Chojnów
+66,11,gm. Leœna
+67,11,gm. Lubañ
+68,11,gm. Olszyna
+69,11,gm. Platerówka
+70,11,gm. Siekierczyn
+71,11,m. Lubañ
+72,11,m. Œwieradów-Zdrój
+73,12,gm. Lubin
+74,12,gm. Rudna
+75,12,gm. Œcinawa
+76,12,m. Lubin
+77,13,gm. Gryfów Œl¹ski
+78,13,gm. Lubomierz
+79,13,gm. Lwówek Œl¹ski
+80,13,gm. Mirsk
+81,13,gm. Wleñ
+82,14,gm. Cieszków
+83,14,gm. Kroœnice
+84,14,gm. Milicz
+85,15,gm. Bierutów
+86,15,gm. Dobroszyce
+87,15,gm. Dziadowa K³oda
+88,15,gm. Miêdzybórz
+89,15,gm. Oleœnica
+90,15,gm. Syców
+91,15,gm. Twardogóra
+92,15,m. Oleœnica
+93,16,gm. Domaniów
+94,16,gm. Jelcz-Laskowice
+95,16,gm. O³awa
+96,16,m. O³awa
+97,17,gm. Chocianów
+98,17,gm. Gaworzyce
+99,17,gm. Grêbocice
+100,17,gm. Polkowice
+101,17,gm. Przemków
+102,17,gm. Radwanice
+103,18,gm. Borów
+104,18,gm. Kondratowice
+105,18,gm. Przeworno
+106,18,gm. Strzelin
+107,18,gm. Wi¹zów
+108,19,gm. Kostom³oty
+109,19,gm. Malczyce
+110,19,gm. Miêkinia
+111,19,gm. Œroda Œl¹ska
+112,19,gm. Udanin
+113,20,gm. Dobromierz
+114,20,gm. Jaworzyna Œl¹ska
+115,20,gm. Marcinowice
+116,20,gm. Strzegom
+117,20,gm. Œwidnica
+118,20,gm. ¯arów
+119,20,m. Œwidnica
+120,20,m. Œwiebodzice
+121,21,gm. Oborniki Œl¹skie
+122,21,gm. Prusice
+123,21,gm. Trzebnica
+124,21,gm. Wisznia Ma³a
+125,21,gm. Zawonia
+126,21,gm. ¯migród
+127,22,Wa³brzych
+128,23,gm. Czarny Bór
+129,23,gm. G³uszyca
+130,23,gm. Mieroszów
+131,23,gm. Stare Bogaczowice
+132,23,gm. Walim
+133,23,m. Boguszów-Gorce
+134,23,m. Jedlina-Zdrój
+135,23,m. Szczawno-Zdrój
+136,24,gm. Brzeg Dolny
+137,24,gm. Wiñsko
+138,24,gm. Wo³ów
+139,25,Wroc³aw
+140,26,gm. Czernica
+141,26,gm. D³ugo³êka
+142,26,gm. Jordanów Œl¹ski
+143,26,gm. K¹ty Wroc³awskie
+144,26,gm. Kobierzyce
+145,26,gm. Mietków
+146,26,gm. Siechnice
+147,26,gm. Sobótka
+148,26,gm. ¯órawina
+149,27,gm. Bardo
+150,27,gm. Ciep³owody
+151,27,gm. Kamieniec Z¹bkowicki
+152,27,gm. Stoszowice
+153,27,gm. Z¹bkowice Œl¹skie
+154,27,gm. Ziêbice
+155,27,gm. Z³oty Stok
+156,28,gm. Bogatynia
+157,28,gm. Pieñsk
+158,28,gm. Sulików
+159,28,gm. Wêgliniec
+160,28,gm. Zgorzelec
+161,28,m. Zawidów
+162,28,m. Zgorzelec
+163,29,gm. Pielgrzymka
+164,29,gm. Œwierzawa
+165,29,gm. Zagrodno
+166,29,gm. Z³otoryja
+167,29,m. Wojcieszów
+168,29,m. Z³otoryja
+169,30,gm. Aleksandrów Kujawski
+170,30,gm. B¹dkowo
+171,30,gm. Koneck
+172,30,gm. Raci¹¿ek
+173,30,gm. Waganiec
+174,30,gm. Zakrzewo
+175,30,m. Aleksandrów Kujawski
+176,30,m. Ciechocinek
+177,30,m. Nieszawa
+178,31,gm. Bartniczka
+179,31,gm. Bobrowo
+180,31,gm. Brodnica
+181,31,gm. Brzozie
+182,31,gm. Górzno
+183,31,gm. Jab³onowo Pomorskie
+184,31,gm. Osiek
+185,31,gm. Œwiedziebnia
+186,31,gm. Zbiczno
+187,31,m. Brodnica
+188,32,gm. Bia³e B³ota
+189,32,gm. D¹browa Che³miñska
+190,32,gm. Dobrcz
+191,32,gm. Koronowo
+192,32,gm. Nowa Wieœ Wielka
+193,32,gm. Osielsko
+194,32,gm. Sicienko
+195,32,gm. Solec Kujawski
+196,33,Bydgoszcz
+197,34,gm. Che³mno
+198,34,gm. Kijewo Królewskie
+199,34,gm. Lisewo
+200,34,gm. Papowo Biskupie
+201,34,gm. Stolno
+202,34,gm. Unis³aw
+203,34,m. Che³mno
+204,35,gm. Ciechocin
+205,35,gm. Golub-Dobrzyñ
+206,35,gm. Kowalewo Pomorskie
+207,35,gm. Radomin
+208,35,gm. Zbójno
+209,35,m. Golub-Dobrzyñ
+210,36,Grudzi¹dz
+211,37,gm. Grudzi¹dz
+212,37,gm. Gruta
+213,37,gm. £asin
+214,37,gm. Radzyñ Che³miñski
+215,37,gm. RogóŸno
+216,37,gm. Œwiecie nad Os¹
+217,38,gm. D¹browa Biskupia
+218,38,gm. Gniewkowo
+219,38,gm. Inowroc³aw
+220,38,gm. Janikowo
+221,38,gm. Kruszwica
+222,38,gm. Pakoœæ
+223,38,gm. Rojewo
+224,38,gm. Z³otniki Kujawskie
+225,38,m. Inowroc³aw
+226,39,gm. Bobrowniki
+227,39,gm. Chrostkowo
+228,39,gm. Dobrzyñ nad Wis³¹
+229,39,gm. Kikó³
+230,39,gm. Lipno
+231,39,gm. Skêpe
+232,39,gm. T³uchowo
+233,39,gm. Wielgie
+234,39,m. Lipno
+235,40,gm. D¹browa
+236,40,gm. Jeziora Wielkie
+237,40,gm. Mogilno
+238,40,gm. Strzelno
+239,41,gm. Kcynia
+240,41,gm. Mrocza
+241,41,gm. Nak³o nad Noteci¹
+242,41,gm. Sadki
+243,41,gm. Szubin
+244,42,gm. Bytoñ
+245,42,gm. Dobre
+246,42,gm. Osiêciny
+247,42,gm. Piotrków Kujawski
+248,42,gm. Radziejów
+249,42,gm. Topólka
+250,42,m. Radziejów
+251,43,gm. Brzuze
+252,43,gm. Rogowo
+253,43,gm. Rypin
+254,43,gm. Skrwilno
+255,43,gm. W¹pielsk
+256,43,m. Rypin
+257,44,gm. Kamieñ Krajeñski
+258,44,gm. Sêpólno Krajeñskie
+259,44,gm. Soœno
+260,44,gm. Wiêcbork
+261,45,gm. Bukowiec
+262,45,gm. Dragacz
+263,45,gm. Drzycim
+264,45,gm. Je¿ewo
+265,45,gm. Lniano
+266,45,gm. Nowe
+267,45,gm. Osie
+268,45,gm. Pruszcz
+269,45,gm. Œwiecie
+270,45,gm. Œwiekatowo
+271,45,gm. Warlubie
+272,46,Toruñ
+273,47,gm. Che³m¿a
+274,47,gm. Czernikowo
+275,47,gm. Lubicz
+276,47,gm. £ubianka
+277,47,gm. £ysomice
+278,47,gm. Obrowo
+279,47,gm. Wielka Nieszawka
+280,47,gm. Z³awieœ Wielka
+281,47,m. Che³m¿a
+282,48,gm. Cekcyn
+283,48,gm. Gostycyn
+284,48,gm. Kêsowo
+285,48,gm. Lubiewo
+286,48,gm. Œliwice
+287,48,gm. Tuchola
+288,49,gm. Dêbowa £¹ka
+289,49,gm. Ksi¹¿ki
+290,49,gm. P³u¿nica
+291,49,gm. Ryñsk
+292,49,m. W¹brzeŸno
+293,50,W³oc³awek
+294,51,gm. Baruchowo
+295,51,gm. Boniewo
+296,51,gm. Brzeœæ Kujawski
+297,51,gm. Choceñ
+298,51,gm. Chodecz
+299,51,gm. Fabianki
+300,51,gm. Izbica Kujawska
+301,51,gm. Kowal
+302,51,gm. Lubanie
+303,51,gm. Lubieñ Kujawski
+304,51,gm. Lubraniec
+305,51,gm. W³oc³awek
+306,51,m. Kowal
+307,52,gm. Barcin
+308,52,gm. G¹sawa
+309,52,gm. Janowiec Wielkopolski
+310,52,gm. £abiszyn
+311,52,gm. Rogowo
+312,52,gm. ¯nin
+313,53,gm. Bia³a Podlaska
+314,53,gm. Drelów
+315,53,gm. Janów Podlaski
+316,53,gm. Kodeñ
+317,53,gm. Konstantynów
+318,53,gm. Leœna Podlaska
+319,53,gm. £omazy
+320,53,gm. Miêdzyrzec Podlaski
+321,53,gm. Piszczac
+322,53,gm. Rokitno
+323,53,gm. Rossosz
+324,53,gm. S³awatycze
+325,53,gm. Sosnówka
+326,53,gm. Terespol
+327,53,gm. Tuczna
+328,53,gm. Wisznice
+329,53,gm. Zalesie
+330,53,m. Miêdzyrzec Podlaski
+331,53,m. Terespol
+332,54,Bia³a Podlaska
+333,55,gm. Aleksandrów
+334,55,gm. Bi³goraj
+335,55,gm. Biszcza
+336,55,gm. Frampol
+337,55,gm. Goraj
+338,55,gm. Józefów
+339,55,gm. Ksiê¿pol
+340,55,gm. £ukowa
+341,55,gm. Obsza
+342,55,gm. Potok Górny
+343,55,gm. Tarnogród
+344,55,gm. Tereszpol
+345,55,gm. Turobin
+346,55,m. Bi³goraj
+347,56,Che³m
+348,57,gm. Bia³opole
+349,57,gm. Che³m
+350,57,gm. Dorohusk
+351,57,gm. Dubienka
+352,57,gm. Kamieñ
+353,57,gm. Leœniowice
+354,57,gm. Rejowiec
+355,57,gm. Rejowiec Fabryczny
+356,57,gm. Ruda-Huta
+357,57,gm. Sawin
+358,57,gm. Siedliszcze
+359,57,gm. Wierzbica
+360,57,gm. Wojs³awice
+361,57,gm. ¯mudŸ
+362,57,m. Rejowiec Fabryczny
+363,58,gm. Do³hobyczów
+364,58,gm. Horod³o
+365,58,gm. Hrubieszów
+366,58,gm. Mircze
+367,58,gm. Trzeszczany
+368,58,gm. Uchanie
+369,58,gm. Werbkowice
+370,58,m. Hrubieszów
+371,59,gm. Batorz
+372,59,gm. Chrzanów
+373,59,gm. Dzwola
+374,59,gm. Godziszów
+375,59,gm. Janów Lubelski
+376,59,gm. Modliborzyce
+377,59,gm. Potok Wielki
+378,60,gm. Fajs³awice
+379,60,gm. Gorzków
+380,60,gm. Izbica
+381,60,gm. Krasnystaw
+382,60,gm. Kraœniczyn
+383,60,gm. £opiennik Górny
+384,60,gm. Rudnik
+385,60,gm. Siennica Ró¿ana
+386,60,gm. ¯ó³kiewka
+387,60,m. Krasnystaw
+388,61,gm. Annopol
+389,61,gm. Dzierzkowice
+390,61,gm. Goœcieradów
+391,61,gm. Kraœnik
+392,61,gm. Szastarka
+393,61,gm. Trzydnik Du¿y
+394,61,gm. Urzêdów
+395,61,gm. Wilko³az
+396,61,gm. Zakrzówek
+397,61,m. Kraœnik
+398,62,gm. Abramów
+399,62,gm. Firlej
+400,62,gm. Jeziorzany
+401,62,gm. Kamionka
+402,62,gm. Kock
+403,62,gm. Lubartów
+404,62,gm. Michów
+405,62,gm. NiedŸwiada
+406,62,gm. Ostrów Lubelski
+407,62,gm. Ostrówek
+408,62,gm. Serniki
+409,62,gm. Uœcimów
+410,62,m. Lubartów
+411,63,gm. Be³¿yce
+412,63,gm. Borzechów
+413,63,gm. Bychawa
+414,63,gm. Garbów
+415,63,gm. G³usk
+416,63,gm. Jab³onna
+417,63,gm. Jastków
+418,63,gm. Konopnica
+419,63,gm. Krzczonów
+420,63,gm. Niedrzwica Du¿a
+421,63,gm. Niemce
+422,63,gm. Strzy¿ewice
+423,63,gm. Wojciechów
+424,63,gm. Wólka
+425,63,gm. Wysokie
+426,63,gm. Zakrzew
+427,64,Lublin
+428,65,gm. Cyców
+429,65,gm. Ludwin
+430,65,gm. £êczna
+431,65,gm. Milejów
+432,65,gm. Puchaczów
+433,65,gm. Spiczyn
+434,66,gm. Adamów
+435,66,gm. Krzywda
+436,66,gm. £uków
+437,66,gm. Serokomla
+438,66,gm. Stanin
+439,66,gm. Stoczek £ukowski
+440,66,gm. Trzebieszów
+441,66,gm. Wojcieszków
+442,66,gm. Wola Mys³owska
+443,66,m. £uków
+444,66,m. Stoczek £ukowski
+445,67,gm. Chodel
+446,67,gm. Józefów nad Wis³¹
+447,67,gm. Karczmiska
+448,67,gm. £aziska
+449,67,gm. Opole Lubelskie
+450,67,gm. Poniatowa
+451,67,gm. Wilków
+452,68,gm. Dêbowa K³oda
+453,68,gm. Jab³oñ
+454,68,gm. Milanów
+455,68,gm. Parczew
+456,68,gm. Podedwórze
+457,68,gm. Siemieñ
+458,68,gm. Sosnowica
+459,69,gm. Baranów
+460,69,gm. Janowiec
+461,69,gm. Kazimierz Dolny
+462,69,gm. Koñskowola
+463,69,gm. Kurów
+464,69,gm. Markuszów
+465,69,gm. Na³êczów
+466,69,gm. Pu³awy
+467,69,gm. W¹wolnica
+468,69,gm. ¯yrzyn
+469,69,m. Pu³awy
+470,70,gm. Borki
+471,70,gm. Czemierniki
+472,70,gm. K¹kolewnica
+473,70,gm. Komarówka Podlaska
+474,70,gm. Radzyñ Podlaski
+475,70,gm. Ulan-Majorat
+476,70,gm. Wohyñ
+477,70,m. Radzyñ Podlaski
+478,71,gm. K³oczew
+479,71,gm. Nowodwór
+480,71,gm. Ryki
+481,71,gm. Stê¿yca
+482,71,gm. U³ê¿
+483,71,m. Dêblin
+484,72,gm. Me³giew
+485,72,gm. Piaski
+486,72,gm. Rybczewice
+487,72,gm. Trawniki
+488,72,m. Œwidnik
+489,73,gm. Be³¿ec
+490,73,gm. Jarczów
+491,73,gm. Krynice
+492,73,gm. Lubycza Królewska
+493,73,gm. £aszczów
+494,73,gm. Rachanie
+495,73,gm. Susiec
+496,73,gm. Tarnawatka
+497,73,gm. Telatyn
+498,73,gm. Tomaszów Lubelski
+499,73,gm. Tyszowce
+500,73,gm. Ulhówek
+501,73,m. Tomaszów Lubelski
+502,74,gm. Hanna
+503,74,gm. Hañsk
+504,74,gm. Stary Brus
+505,74,gm. Urszulin
+506,74,gm. W³odawa
+507,74,gm. Wola Uhruska
+508,74,gm. Wyryki
+509,74,m. W³odawa
+510,75,gm. Adamów
+511,75,gm. Grabowiec
+512,75,gm. Komarów-Osada
+513,75,gm. Krasnobród
+514,75,gm. £abunie
+515,75,gm. Mi¹czyn
+516,75,gm. Nielisz
+517,75,gm. Radecznica
+518,75,gm. Sitno
+519,75,gm. Skierbieszów
+520,75,gm. Stary Zamoœæ
+521,75,gm. Su³ów
+522,75,gm. Szczebrzeszyn
+523,75,gm. Zamoœæ
+524,75,gm. Zwierzyniec
+525,76,Zamoœæ
+526,77,gm. Bogdaniec
+527,77,gm. Deszczno
+528,77,gm. K³odawa
+529,77,gm. Lubiszyn
+530,77,gm. Santok
+531,77,gm. Witnica
+532,77,m. Kostrzyn nad Odr¹
+533,78,Gorzów Wielkopolski
+534,79,gm. Bobrowice
+535,79,gm. Bytnica
+536,79,gm. D¹bie
+537,79,gm. Gubin
+538,79,gm. Krosno Odrzañskie
+539,79,gm. Maszewo
+540,79,m. Gubin
+541,80,gm. Bledzew
+542,80,gm. Miêdzyrzecz
+543,80,gm. Przytoczna
+544,80,gm. Pszczew
+545,80,gm. Skwierzyna
+546,80,gm. Trzciel
+547,81,gm. Bytom Odrzañski
+548,81,gm. Kolsko
+549,81,gm. Ko¿uchów
+550,81,gm. Nowa Sól
+551,81,gm. Nowe Miasteczko
+552,81,gm. Otyñ
+553,81,gm. Siedlisko
+554,81,m. Nowa Sól
+555,82,gm. Cybinka
+556,82,gm. Górzyca
+557,82,gm. Oœno Lubuskie
+558,82,gm. Rzepin
+559,82,gm. S³ubice
+560,83,gm. Dobiegniew
+561,83,gm. Drezdenko
+562,83,gm. Stare Kurowo
+563,83,gm. Strzelce Krajeñskie
+564,83,gm. Zwierzyn
+565,84,gm. Krzeszyce
+566,84,gm. Lubniewice
+567,84,gm. S³oñsk
+568,84,gm. Sulêcin
+569,84,gm. Torzym
+570,85,gm. Lubrza
+571,85,gm. £agów
+572,85,gm. Sk¹pe
+573,85,gm. Szczaniec
+574,85,gm. Œwiebodzin
+575,85,gm. Zb¹szynek
+576,86,gm. S³awa
+577,86,gm. Szlichtyngowa
+578,86,gm. Wschowa
+579,87,Zielona Góra
+580,88,gm. Babimost
+581,88,gm. Bojad³a
+582,88,gm. Czerwieñsk
+583,88,gm. Kargowa
+584,88,gm. Nowogród Bobrzañski
+585,88,gm. Sulechów
+586,88,gm. Œwidnica
+587,88,gm. Trzebiechów
+588,88,gm. Zabór
+589,89,gm. BrzeŸnica
+590,89,gm. I³owa
+591,89,gm. Ma³omice
+592,89,gm. Niegos³awice
+593,89,gm. Szprotawa
+594,89,gm. Wymiarki
+595,89,gm. ¯agañ
+596,89,m. Gozdnica
+597,89,m. ¯agañ
+598,90,gm. Brody
+599,90,gm. Jasieñ
+600,90,gm. Lipinki £u¿yckie
+601,90,gm. Lubsko
+602,90,gm. Przewóz
+603,90,gm. Trzebiel
+604,90,gm. Tuplice
+605,90,gm. ¯ary
+606,90,m. £êknica
+607,90,m. ¯ary
+608,91,gm. Be³chatów
+609,91,gm. Dru¿bice
+610,91,gm. Kleszczów
+611,91,gm. Kluki
+612,91,gm. Rusiec
+613,91,gm. Szczerców
+614,91,gm. Zelów
+615,91,m. Be³chatów
+616,92,gm. Brzeziny
+617,92,gm. Dmosin
+618,92,gm. Je¿ów
+619,92,gm. Rogów
+620,92,m. Brzeziny
+621,93,gm. Bedlno
+622,93,gm. D¹browice
+623,93,gm. Kroœniewice
+624,93,gm. Krzy¿anów
+625,93,gm. Kutno
+626,93,gm. £aniêta
+627,93,gm. Nowe Ostrowy
+628,93,gm. Oporów
+629,93,gm. Strzelce
+630,93,gm. ¯ychlin
+631,93,m. Kutno
+632,94,gm. Buczek
+633,94,gm. £ask
+634,94,gm. Sêdziejowice
+635,94,gm. Widawa
+636,94,gm. Wodzierady
+637,95,gm. Daszyna
+638,95,gm. Góra Œwiêtej Ma³gorzaty
+639,95,gm. Grabów
+640,95,gm. £êczyca
+641,95,gm. Pi¹tek
+642,95,gm. Œwinice Warckie
+643,95,gm. Witonia
+644,95,m. £êczyca
+645,96,gm. Bielawy
+646,96,gm. Ch¹œno
+647,96,gm. Domaniewice
+648,96,gm. Kiernozia
+649,96,gm. Kocierzew Po³udniowy
+650,96,gm. £owicz
+651,96,gm. £yszkowice
+652,96,gm. Nieborów
+653,96,gm. Zduny
+654,96,m. £owicz
+655,97,gm. Andrespol
+656,97,gm. Brójce
+657,97,gm. Koluszki
+658,97,gm. Nowosolna
+659,97,gm. Rzgów
+660,97,gm. Tuszyn
+661,98,£ódŸ
+662,99,gm. Bia³aczów
+663,99,gm. Drzewica
+664,99,gm. Mniszków
+665,99,gm. Opoczno
+666,99,gm. Parady¿
+667,99,gm. Poœwiêtne
+668,99,gm. S³awno
+669,99,gm. ¯arnów
+670,100,gm. D³utów
+671,100,gm. Dobroñ
+672,100,gm. Ksawerów
+673,100,gm. Lutomiersk
+674,100,gm. Pabianice
+675,100,m. Konstantynów £ódzki
+676,100,m. Pabianice
+677,101,gm. Dzia³oszyn
+678,101,gm. Kie³czyg³ów
+679,101,gm. Nowa BrzeŸnica
+680,101,gm. Pajêczno
+681,101,gm. Rz¹œnia
+682,101,gm. Siemkowice
+683,101,gm. Strzelce Wielkie
+684,101,gm. Sulmierzyce
+685,102,gm. Aleksandrów
+686,102,gm. Czarnocin
+687,102,gm. Gorzkowice
+688,102,gm. Grabica
+689,102,gm. £êki Szlacheckie
+690,102,gm. Moszczenica
+691,102,gm. Rêczno
+692,102,gm. Rozprza
+693,102,gm. Sulejów
+694,102,gm. Wola Krzysztoporska
+695,102,gm. Wolbórz
+696,103,Piotrków Trybunalski
+697,104,gm. Dalików
+698,104,gm. Pêczniew
+699,104,gm. Poddêbice
+700,104,gm. Uniejów
+701,104,gm. Wartkowice
+702,104,gm. Zadzim
+703,105,gm. Dobryszyce
+704,105,gm. Gidle
+705,105,gm. Gomunice
+706,105,gm. Kamieñsk
+707,105,gm. Kobiele Wielkie
+708,105,gm. Kodr¹b
+709,105,gm. Lgota Wielka
+710,105,gm. £adzice
+711,105,gm. Mas³owice
+712,105,gm. Przedbórz
+713,105,gm. Radomsko
+714,105,gm. Wielgom³yny
+715,105,gm. ¯ytno
+716,105,m. Radomsko
+717,106,gm. Bia³a Rawska
+718,106,gm. Ciel¹dz
+719,106,gm. Rawa Mazowiecka
+720,106,gm. Regnów
+721,106,gm. Sadkowice
+722,106,m. Rawa Mazowiecka
+723,107,gm. B³aszki
+724,107,gm. Br¹szewice
+725,107,gm. BrzeŸnio
+726,107,gm. Burzenin
+727,107,gm. Goszczanów
+728,107,gm. Klonowa
+729,107,gm. Sieradz
+730,107,gm. Warta
+731,107,gm. Wróblew
+732,107,gm. Z³oczew
+733,107,m. Sieradz
+734,108,Skierniewice
+735,109,gm. Bolimów
+736,109,gm. G³uchów
+737,109,gm. Godzianów
+738,109,gm. Kowiesy
+739,109,gm. Lipce Reymontowskie
+740,109,gm. Maków
+741,109,gm. Nowy Kawêczyn
+742,109,gm. Skierniewice
+743,109,gm. S³upia
+744,110,gm. Bêdków
+745,110,gm. Budziszewice
+746,110,gm. Czerniewice
+747,110,gm. Inow³ódz
+748,110,gm. Lubochnia
+749,110,gm. Rokiciny
+750,110,gm. Rzeczyca
+751,110,gm. Tomaszów Mazowiecki
+752,110,gm. Ujazd
+753,110,gm. ¯elechlinek
+754,110,m. Tomaszów Mazowiecki
+755,111,gm. Bia³a
+756,111,gm. Czarno¿y³y
+757,111,gm. Konopnica
+758,111,gm. Mokrsko
+759,111,gm. Osjaków
+760,111,gm. Ostrówek
+761,111,gm. P¹tnów
+762,111,gm. Skomlin
+763,111,gm. Wieluñ
+764,111,gm. Wierzchlas
+765,112,gm. Boles³awiec
+766,112,gm. Czastary
+767,112,gm. Galewice
+768,112,gm. Lututów
+769,112,gm. £ubnice
+770,112,gm. Sokolniki
+771,112,gm. Wieruszów
+772,113,gm. Szadek
+773,113,gm. Zapolice
+774,113,gm. Zduñska Wola
+775,113,m. Zduñska Wola
+776,114,gm. Aleksandrów £ódzki
+777,114,gm. G³owno
+778,114,gm. Ozorków
+779,114,gm. Parzêczew
+780,114,gm. Stryków
+781,114,gm. Zgierz
+782,114,m. G³owno
+783,114,m. Ozorków
+784,114,m. Zgierz
+785,115,gm. Bochnia
+786,115,gm. Drwinia
+787,115,gm. Lipnica Murowana
+788,115,gm. £apanów
+789,115,gm. Nowy Wiœnicz
+790,115,gm. Rzezawa
+791,115,gm. Trzciana
+792,115,gm. ¯egocina
+793,115,m. Bochnia
+794,116,gm. Borzêcin
+795,116,gm. Brzesko
+796,116,gm. Czchów
+797,116,gm. Dêbno
+798,116,gm. Gnojnik
+799,116,gm. Iwkowa
+800,116,gm. Szczurowa
+801,117,gm. Alwernia
+802,117,gm. Babice
+803,117,gm. Chrzanów
+804,117,gm. Libi¹¿
+805,117,gm. Trzebinia
+806,118,gm. Boles³aw
+807,118,gm. D¹browa Tarnowska
+808,118,gm. Grêboszów
+809,118,gm. Mêdrzechów
+810,118,gm. Olesno
+811,118,gm. Radgoszcz
+812,118,gm. Szczucin
+813,119,gm. Biecz
+814,119,gm. Bobowa
+815,119,gm. Gorlice
+816,119,gm. Lipinki
+817,119,gm. £u¿na
+818,119,gm. Moszczenica
+819,119,gm. Ropa
+820,119,gm. Sêkowa
+821,119,gm. Uœcie Gorlickie
+822,119,m. Gorlice
+823,120,gm. Czernichów
+824,120,gm. Igo³omia-Wawrzeñczyce
+825,120,gm. Iwanowice
+826,120,gm. Jerzmanowice-Przeginia
+827,120,gm. Kocmyrzów-Luborzyca
+828,120,gm. Krzeszowice
+829,120,gm. Liszki
+830,120,gm. Micha³owice
+831,120,gm. Mogilany
+832,120,gm. Ska³a
+833,120,gm. Skawina
+834,120,gm. S³omniki
+835,120,gm. Su³oszowa
+836,120,gm. Œwi¹tniki Górne
+837,120,gm. Wielka Wieœ
+838,120,gm. Zabierzów
+839,120,gm. Zielonki
+840,121,Kraków
+841,122,gm. Dobra
+842,122,gm. Jod³ownik
+843,122,gm. Kamienica
+844,122,gm. Laskowa
+845,122,gm. Limanowa
+846,122,gm. £ukowica
+847,122,gm. Mszana Dolna
+848,122,gm. NiedŸwiedŸ
+849,122,gm. S³opnice
+850,122,gm. Tymbark
+851,122,m. Limanowa
+852,122,m. Mszana Dolna
+853,123,gm. Charsznica
+854,123,gm. Go³cza
+855,123,gm. Koz³ów
+856,123,gm. Ksi¹¿ Wielki
+857,123,gm. Miechów
+858,123,gm. Rac³awice
+859,123,gm. S³aboszów
+860,124,gm. Dobczyce
+861,124,gm. Lubieñ
+862,124,gm. Myœlenice
+863,124,gm. Pcim
+864,124,gm. Raciechowice
+865,124,gm. Siepraw
+866,124,gm. Su³kowice
+867,124,gm. Tokarnia
+868,124,gm. Wiœniowa
+869,125,gm. Che³miec
+870,125,gm. Gródek nad Dunajcem
+871,125,gm. Grybów
+872,125,gm. Kamionka Wielka
+873,125,gm. Korzenna
+874,125,gm. Krynica-Zdrój
+875,125,gm. £abowa
+876,125,gm. £¹cko
+877,125,gm. £ososina Dolna
+878,125,gm. Muszyna
+879,125,gm. Nawojowa
+880,125,gm. Piwniczna-Zdrój
+881,125,gm. Podegrodzie
+882,125,gm. Rytro
+883,125,gm. Stary S¹cz
+884,125,m. Grybów
+885,126,gm. Czarny Dunajec
+886,126,gm. Czorsztyn
+887,126,gm. Jab³onka
+888,126,gm. Kroœcienko nad Dunajcem
+889,126,gm. Lipnica Wielka
+890,126,gm. £apsze Ni¿ne
+891,126,gm. Nowy Targ
+892,126,gm. Ochotnica Dolna
+893,126,gm. Raba Wy¿na
+894,126,gm. Rabka-Zdrój
+895,126,gm. Spytkowice
+896,126,gm. Szaflary
+897,126,gm. Szczawnica
+898,126,m. Nowy Targ
+899,127,Nowy S¹cz
+900,128,gm. Boles³aw
+901,128,gm. Klucze
+902,128,gm. Olkusz
+903,128,gm. Trzyci¹¿
+904,128,gm. Wolbrom
+905,128,m. Bukowno
+906,129,gm. Brzeszcze
+907,129,gm. Che³mek
+908,129,gm. Kêty
+909,129,gm. Osiek
+910,129,gm. Oœwiêcim
+911,129,gm. Polanka Wielka
+912,129,gm. Przeciszów
+913,129,gm. Zator
+914,129,m. Oœwiêcim
+915,130,gm. Koniusza
+916,130,gm. Koszyce
+917,130,gm. Nowe Brzesko
+918,130,gm. Pa³ecznica
+919,130,gm. Proszowice
+920,130,gm. Radziemice
+921,131,gm. Budzów
+922,131,gm. Bystra-Sidzina
+923,131,gm. Jordanów
+924,131,gm. Maków Podhalañski
+925,131,gm. Stryszawa
+926,131,gm. Zawoja
+927,131,gm. Zembrzyce
+928,131,m. Jordanów
+929,131,m. Sucha Beskidzka
+930,132,gm. Ciê¿kowice
+931,132,gm. Gromnik
+932,132,gm. Lisia Góra
+933,132,gm. Pleœna
+934,132,gm. Rad³ów
+935,132,gm. Ryglice
+936,132,gm. Rzepiennik Strzy¿ewski
+937,132,gm. Skrzyszów
+938,132,gm. Szerzyny
+939,132,gm. Tarnów
+940,132,gm. Tuchów
+941,132,gm. Wierzchos³awice
+942,132,gm. Wietrzychowice
+943,132,gm. Wojnicz
+944,132,gm. Zakliczyn
+945,132,gm. ¯abno
+946,133,Tarnów
+947,134,gm. Bia³y Dunajec
+948,134,gm. Bukowina Tatrzañska
+949,134,gm. Koœcielisko
+950,134,gm. Poronin
+951,134,m. Zakopane
+952,135,gm. Andrychów
+953,135,gm. BrzeŸnica
+954,135,gm. Kalwaria Zebrzydowska
+955,135,gm. Lanckorona
+956,135,gm. Mucharz
+957,135,gm. Spytkowice
+958,135,gm. Stryszów
+959,135,gm. Tomice
+960,135,gm. Wadowice
+961,135,gm. Wieprz
+962,136,gm. Biskupice
+963,136,gm. Gdów
+964,136,gm. K³aj
+965,136,gm. Niepo³omice
+966,136,gm. Wieliczka
+967,137,gm. Bia³obrzegi
+968,137,gm. Promna
+969,137,gm. Radzanów
+970,137,gm. Stara B³otnica
+971,137,gm. Stromiec
+972,137,gm. Wyœmierzyce
+973,138,gm. Ciechanów
+974,138,gm. Glinojeck
+975,138,gm. Go³ymin-Oœrodek
+976,138,gm. Grudusk
+977,138,gm. Ojrzeñ
+978,138,gm. Opinogóra Górna
+979,138,gm. Regimin
+980,138,gm. Soñsk
+981,138,m. Ciechanów
+982,139,gm. Borowie
+983,139,gm. Garwolin
+984,139,gm. Górzno
+985,139,gm. £askarzew
+986,139,gm. Maciejowice
+987,139,gm. Miastków Koœcielny
+988,139,gm. Parysów
+989,139,gm. Pilawa
+990,139,gm. Sobolew
+991,139,gm. Trojanów
+992,139,gm. Wilga
+993,139,gm. ¯elechów
+994,139,m. Garwolin
+995,139,m. £askarzew
+996,140,gm. Gostynin
+997,140,gm. Pacyna
+998,140,gm. Sanniki
+999,140,gm. Szczawin Koœc.
+1000,140,m. Gostynin
+1001,141,gm. Baranów
+1002,141,gm. Grodzisk Mazowiecki
+1003,141,gm. Jaktorów
+1004,141,gm. ¯abia Wola
+1005,141,m. Milanówek
+1006,141,m. Podkowa Leœna
+1007,142,gm. Belsk Du¿y
+1008,142,gm. B³êdów
+1009,142,gm. Chynów
+1010,142,gm. Goszczyn
+1011,142,gm. Grójec
+1012,142,gm. Jasieniec
+1013,142,gm. Mogielnica
+1014,142,gm. Nowe Miasto nad Pilic¹
+1015,142,gm. Pniewy
+1016,142,gm. Warka
+1017,143,gm. Garbatka-Letnisko
+1018,143,gm. G³owaczów
+1019,143,gm. Gniewoszów
+1020,143,gm. Grabów nad Pilic¹
+1021,143,gm. Kozienice
+1022,143,gm. Magnuszew
+1023,143,gm. Sieciechów
+1024,144,gm. Jab³onna
+1025,144,gm. Nieporêt
+1026,144,gm. Serock
+1027,144,gm. Wieliszew
+1028,144,m. Legionowo
+1029,145,gm. Chotcza
+1030,145,gm. Ciepielów
+1031,145,gm. Lipsko
+1032,145,gm. Rzeczniów
+1033,145,gm. Sienno
+1034,145,gm. Solec nad Wis³¹
+1035,146,gm. Huszlew
+1036,146,gm. £osice
+1037,146,gm. Olszanka
+1038,146,gm. Platerów
+1039,146,gm. Sarnaki
+1040,146,gm. Stara Kornica
+1041,147,gm. Czerwonka
+1042,147,gm. Karniewo
+1043,147,gm. Krasnosielc
+1044,147,gm. M³ynarze
+1045,147,gm. P³oniawy-Bramura
+1046,147,gm. Ró¿an
+1047,147,gm. Rzewnie
+1048,147,gm. Sypniewo
+1049,147,gm. Szelków
+1050,147,m. Maków Mazowiecki
+1051,148,gm. Ceg³ów
+1052,148,gm. Dêbe Wielkie
+1053,148,gm. Dobre
+1054,148,gm. Halinów
+1055,148,gm. Jakubów
+1056,148,gm. Ka³uszyn
+1057,148,gm. Latowicz
+1058,148,gm. Miñsk Mazowiecki
+1059,148,gm. Mrozy
+1060,148,gm. Siennica
+1061,148,gm. Stanis³awów
+1062,148,m. Miñsk Mazowiecki
+1063,148,m. Sulejówek
+1064,149,gm. Dzierzgowo
+1065,149,gm. Lipowiec Koœcielny
+1066,149,gm. Radzanów
+1067,149,gm. Strzegowo
+1068,149,gm. Stupsk
+1069,149,gm. Szreñsk
+1070,149,gm. Szyd³owo
+1071,149,gm. Wieczfnia Koœcielna
+1072,149,gm. Wiœniewo
+1073,149,m. M³awa
+1074,150,gm. Czosnów
+1075,150,gm. Leoncin
+1076,150,gm. Nasielsk
+1077,150,gm. Pomiechówek
+1078,150,gm. Zakroczym
+1079,150,m. Nowy Dwór Mazowiecki
+1080,151,gm. Baranowo
+1081,151,gm. Czarnia
+1082,151,gm. Czerwin
+1083,151,gm. Goworowo
+1084,151,gm. Kadzid³o
+1085,151,gm. Lelis
+1086,151,gm. £yse
+1087,151,gm. Myszyniec
+1088,151,gm. Olszewo-Borki
+1089,151,gm. Rzekuñ
+1090,151,gm. Troszyn
+1091,152,Ostro³êka
+1092,153,gm. Andrzejewo
+1093,153,gm. Boguty-Pianki
+1094,153,gm. Brok
+1095,153,gm. Ma³kinia Górna
+1096,153,gm. Nur
+1097,153,gm. Ostrów Mazowiecka
+1098,153,gm. Stary Lubotyñ
+1099,153,gm. Szulborze Wielkie
+1100,153,gm. W¹sewo
+1101,153,gm. Zarêby Koœcielne
+1102,153,m. Ostrów Mazowiecka
+1103,154,gm. Celestynów
+1104,154,gm. Karczew
+1105,154,gm. Ko³biel
+1106,154,gm. Osieck
+1107,154,gm. Sobienie-Jeziory
+1108,154,gm. Wi¹zowna
+1109,154,m. Józefów
+1110,154,m. Otwock
+1111,155,gm. Góra Kalwaria
+1112,155,gm. Konstancin-Jeziorna
+1113,155,gm. Lesznowola
+1114,155,gm. Piaseczno
+1115,155,gm. Pra¿mów
+1116,155,gm. Tarczyn
+1117,156,P³ock
+1118,157,gm. Bielsk
+1119,157,gm. Bodzanów
+1120,157,gm. Brudzeñ Du¿y
+1121,157,gm. Bulkowo
+1122,157,gm. Drobin
+1123,157,gm. G¹bin
+1124,157,gm. £¹ck
+1125,157,gm. Ma³a Wieœ
+1126,157,gm. Nowy Duninów
+1127,157,gm. Radzanowo
+1128,157,gm. S³ubice
+1129,157,gm. S³upno
+1130,157,gm. Stara Bia³a
+1131,157,gm. StaroŸreby
+1132,157,gm. Wyszogród
+1133,158,gm. Baboszewo
+1134,158,gm. Czerwiñsk nad Wis³¹
+1135,158,gm. Dzierz¹¿nia
+1136,158,gm. Joniec
+1137,158,gm. Naruszewo
+1138,158,gm. Nowe Miasto
+1139,158,gm. P³oñsk
+1140,158,gm. Raci¹¿
+1141,158,gm. Sochocin
+1142,158,gm. Za³uski
+1143,158,m. P³oñsk
+1144,158,m. Raci¹¿
+1145,159,gm. Brwinów
+1146,159,gm. Micha³owice
+1147,159,gm. Nadarzyn
+1148,159,gm. Raszyn
+1149,159,m. Piastów
+1150,159,m. Pruszków
+1151,160,gm. Chorzele
+1152,160,gm. Czernice Borowe
+1153,160,gm. Jednoro¿ec
+1154,160,gm. Krasne
+1155,160,gm. Krzynow³oga Ma³a
+1156,160,gm. Przasnysz
+1157,160,m. Przasnysz
+1158,161,gm. Borkowice
+1159,161,gm. Gielniów
+1160,161,gm. Klwów
+1161,161,gm. Odrzywó³
+1162,161,gm. Potworów
+1163,161,gm. Przysucha
+1164,161,gm. Rusinów
+1165,161,gm. Wieniawa
+1166,162,gm. Gzy
+1167,162,gm. Obryte
+1168,162,gm. Pokrzywnica
+1169,162,gm. Pu³tusk
+1170,162,gm. Œwiercze
+1171,162,gm. Winnica
+1172,162,gm. Zatory
+1173,163,Radom
+1174,164,gm. Gózd
+1175,164,gm. I³¿a
+1176,164,gm. Jastrzêbia
+1177,164,gm. Jedliñsk
+1178,164,gm. Jedlnia-Letnisko
+1179,164,gm. Kowala
+1180,164,gm. Pionki
+1181,164,gm. Przytyk
+1182,164,gm. Skaryszew
+1183,164,gm. Wierzbica
+1184,164,gm. Wolanów
+1185,164,gm. Zakrzew
+1186,164,m. Pionki
+1187,165,Siedlce
+1188,166,gm. Domanice
+1189,166,gm. Korczew
+1190,166,gm. Kotuñ
+1191,166,gm. Mokobody
+1192,166,gm. Mordy
+1193,166,gm. Paprotnia
+1194,166,gm. Przesmyki
+1195,166,gm. Siedlce
+1196,166,gm. Skórzec
+1197,166,gm. Sucho¿ebry
+1198,166,gm. Wiœniew
+1199,166,gm. Wodynie
+1200,166,gm. Zbuczyn
+1201,167,gm. Gozdowo
+1202,167,gm. Mochowo
+1203,167,gm. Roœciszewo
+1204,167,gm. Sierpc
+1205,167,gm. Szczutowo
+1206,167,gm. Zawidz
+1207,167,m. Sierpc
+1208,168,gm. Brochów
+1209,168,gm. I³ów
+1210,168,gm. M³odzieszyn
+1211,168,gm. Nowa Sucha
+1212,168,gm. Rybno
+1213,168,gm. Sochaczew
+1214,168,gm. Teresin
+1215,168,m. Sochaczew
+1216,169,gm. Bielany
+1217,169,gm. Ceranów
+1218,169,gm. Jab³onna Lacka
+1219,169,gm. Kosów Lacki
+1220,169,gm. Repki
+1221,169,gm. Sabnie
+1222,169,gm. Soko³ów Podlaski
+1223,169,gm. Sterdyñ
+1224,169,m. Soko³ów Podlaski
+1225,170,Statki
+1226,171,gm. Chlewiska
+1227,171,gm. Jastrz¹b
+1228,171,gm. Mirów
+1229,171,gm. Oroñsko
+1230,171,gm. Szyd³owiec
+1231,172,Bemowo
+1232,172,Bia³o³êka
+1233,172,Bielany
+1234,172,Mokotów
+1235,172,Ochota
+1236,172,Praga-Po³udnie
+1237,172,Praga-Pó³noc
+1238,172,Rembertów
+1239,172,Œródmieœcie
+1240,172,Targówek
+1241,172,Ursus
+1242,172,Ursynów
+1243,172,Wawer
+1244,172,Weso³a
+1245,172,Wilanów
+1246,172,W³ochy
+1247,172,Wola
+1248,172,¯oliborz
+1249,173,gm. B³onie
+1250,173,gm. Izabelin
+1251,173,gm. Kampinos
+1252,173,gm. Leszno
+1253,173,gm. £omianki
+1254,173,gm. O¿arów Mazowiecki
+1255,173,gm. Stare Babice
+1256,174,gm. Grêbków
+1257,174,gm. Korytnica
+1258,174,gm. Liw
+1259,174,gm. £ochów
+1260,174,gm. Miedzna
+1261,174,gm. Sadowne
+1262,174,gm. Stoczek
+1263,174,gm. Wierzbno
+1264,174,m. Wêgrów
+1265,175,gm. D¹brówka
+1266,175,gm. Jadów
+1267,175,gm. Klembów
+1268,175,gm. Poœwiêtne
+1269,175,gm. Radzymin
+1270,175,gm. Strachówka
+1271,175,gm. T³uszcz
+1272,175,gm. Wo³omin
+1273,175,m. Koby³ka
+1274,175,m. Marki
+1275,175,m. Z¹bki
+1276,175,m. Zielonka
+1277,176,gm. Brañszczyk
+1278,176,gm. D³ugosiod³o
+1279,176,gm. Rz¹œnik
+1280,176,gm. Somianka
+1281,176,gm. Wyszków
+1282,176,gm. Zabrodzie
+1283,177,Zagranica
+1284,178,gm. Kazanów
+1285,178,gm. Policzna
+1286,178,gm. Przy³êk
+1287,178,gm. Tczów
+1288,178,gm. Zwoleñ
+1289,179,gm. Bie¿uñ
+1290,179,gm. Kuczbork-Osada
+1291,179,gm. Lubowidz
+1292,179,gm. Lutocin
+1293,179,gm. Siemi¹tkowo
+1294,179,gm. ¯uromin
+1295,180,gm. Mszczonów
+1296,180,gm. Puszcza Mariañska
+1297,180,gm. Radziejowice
+1298,180,gm. Wiskitki
+1299,180,m. ¯yrardów
+1300,181,gm. Grodków
+1301,181,gm. Lewin Brzeski
+1302,181,gm. Lubsza
+1303,181,gm. Olszanka
+1304,181,gm. Skarbimierz
+1305,181,m. Brzeg
+1306,182,gm. Baborów
+1307,182,gm. Branice
+1308,182,gm. G³ubczyce
+1309,182,gm. Kietrz
+1310,183,gm. Bierawa
+1311,183,gm. Cisek
+1312,183,gm. Paw³owiczki
+1313,183,gm. Polska Cerekiew
+1314,183,gm. Reñska Wieœ
+1315,183,m. Kêdzierzyn-KoŸle
+1316,184,gm. Byczyna
+1317,184,gm. Kluczbork
+1318,184,gm. Lasowice Wielkie
+1319,184,gm. Wo³czyn
+1320,185,gm. Gogolin
+1321,185,gm. Krapkowice
+1322,185,gm. Strzeleczki
+1323,185,gm. Walce
+1324,185,gm. Zdzieszowice
+1325,186,gm. Domaszowice
+1326,186,gm. Namys³ów
+1327,186,gm. Pokój
+1328,186,gm. Œwierczów
+1329,186,gm. Wilków
+1330,187,gm. G³ucho³azy
+1331,187,gm. Kamiennik
+1332,187,gm. Korfantów
+1333,187,gm. £ambinowice
+1334,187,gm. Nysa
+1335,187,gm. Otmuchów
+1336,187,gm. Paczków
+1337,187,gm. Pakos³awice
+1338,187,gm. Skoroszyce
+1339,188,gm. Dobrodzieñ
+1340,188,gm. Gorzów Œl¹ski
+1341,188,gm. Olesno
+1342,188,gm. Praszka
+1343,188,gm. Rad³ów
+1344,188,gm. Rudniki
+1345,188,gm. Zêbowice
+1346,189,Opole
+1347,190,gm. Chrz¹stowice
+1348,190,gm. D¹browa
+1349,190,gm. Dobrzeñ Wielki
+1350,190,gm. Komprachcice
+1351,190,gm. £ubniany
+1352,190,gm. Murów
+1353,190,gm. Niemodlin
+1354,190,gm. Ozimek
+1355,190,gm. Popielów
+1356,190,gm. Prószków
+1357,190,gm. Tarnów Opolski
+1358,190,gm. Tu³owice
+1359,190,gm. Turawa
+1360,191,gm. Bia³a
+1361,191,gm. G³ogówek
+1362,191,gm. Lubrza
+1363,191,gm. Prudnik
+1364,192,gm. Izbicko
+1365,192,gm. Jemielnica
+1366,192,gm. Kolonowskie
+1367,192,gm. Leœnica
+1368,192,gm. Strzelce Opolskie
+1369,192,gm. Ujazd
+1370,192,gm. Zawadzkie
+1371,193,gm. Czarna
+1372,193,gm. Lutowiska
+1373,193,gm. Ustrzyki Dolne
+1374,194,gm. Brzozów
+1375,194,gm. Domaradz
+1376,194,gm. Dydnia
+1377,194,gm. Haczów
+1378,194,gm. Jasienica Rosielna
+1379,194,gm. Nozdrzec
+1380,195,gm. Brzostek
+1381,195,gm. Czarna
+1382,195,gm. Dêbica
+1383,195,gm. Jod³owa
+1384,195,gm. Pilzno
+1385,195,gm. ¯yraków
+1386,195,m. Dêbica
+1387,196,gm. Ch³opice
+1388,196,gm. Jaros³aw
+1389,196,gm. Laszki
+1390,196,gm. Paw³osiów
+1391,196,gm. Pruchnik
+1392,196,gm. Radymno
+1393,196,gm. Rokietnica
+1394,196,gm. RoŸwienica
+1395,196,gm. Wi¹zownica
+1396,196,m. Jaros³aw
+1397,196,m. Radymno
+1398,197,gm. Brzyska
+1399,197,gm. Dêbowiec
+1400,197,gm. Jas³o
+1401,197,gm. Ko³aczyce
+1402,197,gm. Krempna
+1403,197,gm. Nowy ¯migród
+1404,197,gm. Osiek Jasielski
+1405,197,gm. Sko³yszyn
+1406,197,gm. Tarnowiec
+1407,197,m. Jas³o
+1408,198,gm. Cmolas
+1409,198,gm. Dzikowiec
+1410,198,gm. Kolbuszowa
+1411,198,gm. Majdan Królewski
+1412,198,gm. Niwiska
+1413,198,gm. Rani¿ów
+1414,199,Krosno
+1415,200,gm. Chorkówka
+1416,200,gm. Dukla
+1417,200,gm. Iwonicz-Zdrój
+1418,200,gm. Jaœliska
+1419,200,gm. Jedlicze
+1420,200,gm. Korczyna
+1421,200,gm. Kroœcienko Wy¿ne
+1422,200,gm. Miejsce Piastowe
+1423,200,gm. Rymanów
+1424,200,gm. Wojaszówka
+1425,201,gm. Baligród
+1426,201,gm. Cisna
+1427,201,gm. Lesko
+1428,201,gm. Olszanica
+1429,201,gm. Solina
+1430,202,gm. Grodzisko Dolne
+1431,202,gm. Kury³ówka
+1432,202,gm. Le¿ajsk
+1433,202,gm. Nowa Sarzyna
+1434,202,m. Le¿ajsk
+1435,203,gm. Cieszanów
+1436,203,gm. Horyniec-Zdrój
+1437,203,gm. Lubaczów
+1438,203,gm. Narol
+1439,203,gm. Oleszyce
+1440,203,gm. Stary Dzików
+1441,203,gm. Wielkie Oczy
+1442,203,m. Lubaczów
+1443,204,gm. Bia³obrzegi
+1444,204,gm. Czarna
+1445,204,gm. £añcut
+1446,204,gm. Markowa
+1447,204,gm. Rakszawa
+1448,204,gm. ¯o³ynia
+1449,204,m. £añcut
+1450,205,gm. Borowa
+1451,205,gm. Czermin
+1452,205,gm. Gaw³uszowice
+1453,205,gm. Mielec
+1454,205,gm. Padew Narodowa
+1455,205,gm. Przec³aw
+1456,205,gm. Radomyœl Wielki
+1457,205,gm. Tuszów Narodowy
+1458,205,gm. Wadowice Górne
+1459,205,m. Mielec
+1460,206,gm. Harasiuki
+1461,206,gm. Jarocin
+1462,206,gm. Je¿owe
+1463,206,gm. Krzeszów
+1464,206,gm. Nisko
+1465,206,gm. Rudnik nad Sanem
+1466,206,gm. Ulanów
+1467,207,gm. Bircza
+1468,207,gm. Dubiecko
+1469,207,gm. Fredropol
+1470,207,gm. Krasiczyn
+1471,207,gm. Krzywcza
+1472,207,gm. Medyka
+1473,207,gm. Or³y
+1474,207,gm. Przemyœl
+1475,207,gm. Stubno
+1476,207,gm. ¯urawica
+1477,208,Przemyœl
+1478,209,gm. Adamówka
+1479,209,gm. Gaæ
+1480,209,gm. Jawornik Polski
+1481,209,gm. Kañczuga
+1482,209,gm. Przeworsk
+1483,209,gm. Sieniawa
+1484,209,gm. Tryñcza
+1485,209,gm. Zarzecze
+1486,209,m. Przeworsk
+1487,210,gm. Iwierzyce
+1488,210,gm. Ostrów
+1489,210,gm. Ropczyce
+1490,210,gm. Sêdziszów Ma³opolski
+1491,210,gm. Wielopole Skrzyñskie
+1492,211,gm. B³a¿owa
+1493,211,gm. Boguchwa³a
+1494,211,gm. Chmielnik
+1495,211,gm. Dynów
+1496,211,gm. G³ogów Ma³opolski
+1497,211,gm. Hy¿ne
+1498,211,gm. Kamieñ
+1499,211,gm. Krasne
+1500,211,gm. Lubenia
+1501,211,gm. Soko³ów Ma³opolski
+1502,211,gm. Œwilcza
+1503,211,gm. Trzebownisko
+1504,211,gm. Tyczyn
+1505,211,m. Dynów
+1506,212,Rzeszów
+1507,213,gm. Besko
+1508,213,gm. Bukowsko
+1509,213,gm. Komañcza
+1510,213,gm. Sanok
+1511,213,gm. Tyrawa Wo³oska
+1512,213,gm. Zagórz
+1513,213,gm. Zarszyn
+1514,213,m. Sanok
+1515,214,gm. Bojanów
+1516,214,gm. Pysznica
+1517,214,gm. Radomyœl nad Sanem
+1518,214,gm. Zaklików
+1519,214,gm. Zaleszany
+1520,214,m. Stalowa Wola
+1521,215,gm. Czudec
+1522,215,gm. Frysztak
+1523,215,gm. Niebylec
+1524,215,gm. Strzy¿ów
+1525,215,gm. Wiœniowa
+1526,216,Tarnobrzeg
+1527,217,gm. Baranów Sandomierski
+1528,217,gm. Gorzyce
+1529,217,gm. Grêbów
+1530,217,gm. Nowa Dêba
+1531,218,gm. Augustów
+1532,218,gm. Barg³ów Koœcielny
+1533,218,gm. Lipsk
+1534,218,gm. Nowinka
+1535,218,gm. P³aska
+1536,218,gm. Sztabin
+1537,218,m. Augustów
+1538,219,gm. Choroszcz
+1539,219,gm. Czarna Bia³ostocka
+1540,219,gm. Dobrzyniewo Du¿e
+1541,219,gm. Gródek
+1542,219,gm. Juchnowiec Koœcielny
+1543,219,gm. £apy
+1544,219,gm. Micha³owo
+1545,219,gm. Poœwiêtne
+1546,219,gm. Supraœl
+1547,219,gm. Sura¿
+1548,219,gm. Turoœñ Koœcielna
+1549,219,gm. Tykocin
+1550,219,gm. Wasilków
+1551,219,gm. Zab³udów
+1552,219,gm. Zawady
+1553,220,Bia³ystok
+1554,221,gm. Bielsk Podlaski
+1555,221,gm. Boæki
+1556,221,gm. Brañsk
+1557,221,gm. Orla
+1558,221,gm. Rudka
+1559,221,gm. Wyszki
+1560,221,m. Bielsk Podlaski
+1561,221,m. Brañsk
+1562,222,gm. Grajewo
+1563,222,gm. Radzi³ów
+1564,222,gm. Rajgród
+1565,222,gm. Szczuczyn
+1566,222,gm. W¹sosz
+1567,222,m. Grajewo
+1568,223,gm. Bia³owie¿a
+1569,223,gm. Czeremcha
+1570,223,gm. Czy¿e
+1571,223,gm. Dubicze Cerkiewne
+1572,223,gm. Hajnówka
+1573,223,gm. Kleszczele
+1574,223,gm. Narew
+1575,223,gm. Narewka
+1576,223,m. Hajnówka
+1577,224,gm. Grabowo
+1578,224,gm. Kolno
+1579,224,gm. Ma³y P³ock
+1580,224,gm. Stawiski
+1581,224,gm. Turoœl
+1582,224,m. Kolno
+1583,225,£om¿a
+1584,226,gm. Jedwabne
+1585,226,gm. £om¿a
+1586,226,gm. Miastkowo
+1587,226,gm. Nowogród
+1588,226,gm. Pi¹tnica
+1589,226,gm. Przytu³y
+1590,226,gm. Œniadowo
+1591,226,gm. Wizna
+1592,226,gm. Zbójna
+1593,227,gm. Goni¹dz
+1594,227,gm. Jasionówka
+1595,227,gm. Jaœwi³y
+1596,227,gm. Knyszyn
+1597,227,gm. Krypno
+1598,227,gm. Moñki
+1599,227,gm. Trzcianne
+1600,228,gm. Giby
+1601,228,gm. Krasnopol
+1602,228,gm. Puñsk
+1603,228,gm. Sejny
+1604,228,m. Sejny
+1605,229,gm. Drohiczyn
+1606,229,gm. Dziadkowice
+1607,229,gm. Grodzisk
+1608,229,gm. Mielnik
+1609,229,gm. Milejczyce
+1610,229,gm. Nurzec-Stacja
+1611,229,gm. Perlejewo
+1612,229,gm. Siemiatycze
+1613,229,m. Siemiatycze
+1614,230,gm. D¹browa Bia³ostocka
+1615,230,gm. Janów
+1616,230,gm. Korycin
+1617,230,gm. Krynki
+1618,230,gm. KuŸnica
+1619,230,gm. Nowy Dwór
+1620,230,gm. Sidra
+1621,230,gm. Sokó³ka
+1622,230,gm. Suchowola
+1623,230,gm. Szudzia³owo
+1624,231,gm. Baka³arzewo
+1625,231,gm. Filipów
+1626,231,gm. Jeleniewo
+1627,231,gm. Przeroœl
+1628,231,gm. Raczki
+1629,231,gm. Rutka-Tartak
+1630,231,gm. Suwa³ki
+1631,231,gm. Szypliszki
+1632,231,gm. Wi¿ajny
+1633,232,Suwa³ki
+1634,233,gm. Ciechanowiec
+1635,233,gm. Czy¿ew
+1636,233,gm. Klukowo
+1637,233,gm. Kobylin-Borzymy
+1638,233,gm. Kulesze Koœcielne
+1639,233,gm. Nowe Piekuty
+1640,233,gm. Soko³y
+1641,233,gm. Szepietowo
+1642,233,gm. Wysokie Mazowieckie
+1643,233,m. Wysokie Mazowieckie
+1644,234,gm. Ko³aki Koœcielne
+1645,234,gm. Rutki
+1646,234,gm. Szumowo
+1647,234,gm. Zambrów
+1648,234,m. Zambrów
+1649,235,gm. Borzytuchom
+1650,235,gm. Bytów
+1651,235,gm. Czarna D¹brówka
+1652,235,gm. Ko³czyg³owy
+1653,235,gm. Lipnica
+1654,235,gm. Miastko
+1655,235,gm. Parchowo
+1656,235,gm. Studzienice
+1657,235,gm. Trzebielino
+1658,235,gm. Tuchomie
+1659,236,gm. Brusy
+1660,236,gm. Chojnice
+1661,236,gm. Czersk
+1662,236,gm. Konarzyny
+1663,236,m. Chojnice
+1664,237,gm. Czarne
+1665,237,gm. Cz³uchów
+1666,237,gm. Debrzno
+1667,237,gm. Kocza³a
+1668,237,gm. Przechlewo
+1669,237,gm. Rzeczenica
+1670,237,m. Cz³uchów
+1671,238,Gdañsk
+1672,239,gm. Cedry Wielkie
+1673,239,gm. Kolbudy
+1674,239,gm. Pruszcz Gdañski
+1675,239,gm. Przywidz
+1676,239,gm. Pszczó³ki
+1677,239,gm. Suchy D¹b
+1678,239,gm. Tr¹bki Wielkie
+1679,239,m. Pruszcz Gdañski
+1680,240,Gdynia
+1681,241,gm. Chmielno
+1682,241,gm. Kartuzy
+1683,241,gm. Przodkowo
+1684,241,gm. Sierakowice
+1685,241,gm. Somonino
+1686,241,gm. Stê¿yca
+1687,241,gm. Sulêczyno
+1688,241,gm. ¯ukowo
+1689,242,gm. Dziemiany
+1690,242,gm. Karsin
+1691,242,gm. Koœcierzyna
+1692,242,gm. Liniewo
+1693,242,gm. Lipusz
+1694,242,gm. Nowa Karczma
+1695,242,gm. Stara Kiszewa
+1696,242,m. Koœcierzyna
+1697,243,gm. Gardeja
+1698,243,gm. Kwidzyn
+1699,243,gm. Prabuty
+1700,243,gm. Ryjewo
+1701,243,gm. Sadlinki
+1702,243,m. Kwidzyn
+1703,244,gm. Cewice
+1704,244,gm. Nowa Wieœ Lêborska
+1705,244,gm. Wicko
+1706,244,m. Lêbork
+1707,244,m. £eba
+1708,245,gm. Lichnowy
+1709,245,gm. Malbork
+1710,245,gm. Mi³oradz
+1711,245,gm. Nowy Staw
+1712,245,gm. Stare Pole
+1713,245,m. Malbork
+1714,246,gm. Nowy Dwór Gdañski
+1715,246,gm. Ostaszewo
+1716,246,gm. Stegna
+1717,246,gm. Sztutowo
+1718,246,m. Krynica Morska
+1719,247,gm. Jastarnia
+1720,247,gm. Kosakowo
+1721,247,gm. Krokowa
+1722,247,gm. Puck
+1723,247,gm. W³adys³awowo
+1724,247,m. Hel
+1725,247,m. Puck
+1726,248,S³upsk
+1727,249,gm. Damnica
+1728,249,gm. Dêbnica Kaszubska
+1729,249,gm. G³ówczyce
+1730,249,gm. Kêpice
+1731,249,gm. Kobylnica
+1732,249,gm. Potêgowo
+1733,249,gm. S³upsk
+1734,249,gm. Smo³dzino
+1735,249,gm. Ustka
+1736,249,m. Ustka
+1737,250,Sopot
+1738,251,gm. Bobowo
+1739,251,gm. Czarna Woda
+1740,251,gm. Kaliska
+1741,251,gm. Lubichowo
+1742,251,gm. Osieczna
+1743,251,gm. Osiek
+1744,251,gm. Skarszewy
+1745,251,gm. Skórcz
+1746,251,gm. Smêtowo Graniczne
+1747,251,gm. Starogard Gdañski
+1748,251,gm. Zblewo
+1749,251,m. Skórcz
+1750,251,m. Starogard Gdañski
+1751,252,gm. Dzierzgoñ
+1752,252,gm. Miko³ajki Pomorskie
+1753,252,gm. Stary Dzierzgoñ
+1754,252,gm. Stary Targ
+1755,252,gm. Sztum
+1756,253,gm. Gniew
+1757,253,gm. Morzeszczyn
+1758,253,gm. Pelplin
+1759,253,gm. Subkowy
+1760,253,gm. Tczew
+1761,253,m. Tczew
+1762,254,gm. Choczewo
+1763,254,gm. Gniewino
+1764,254,gm. Linia
+1765,254,gm. Luzino
+1766,254,gm. £êczyce
+1767,254,gm. Szemud
+1768,254,gm. Wejherowo
+1769,254,m. Reda
+1770,254,m. Rumia
+1771,254,m. Wejherowo
+1772,255,gm. Bobrowniki
+1773,255,gm. Mierzêcice
+1774,255,gm. Psary
+1775,255,gm. Siewierz
+1776,255,m. Bêdzin
+1777,255,m. CzeladŸ
+1778,255,m. S³awków
+1779,255,m. Wojkowice
+1780,256,gm. Bestwina
+1781,256,gm. Buczkowice
+1782,256,gm. Czechowice-Dziedzice
+1783,256,gm. Jasienica
+1784,256,gm. Jaworze
+1785,256,gm. Kozy
+1786,256,gm. Por¹bka
+1787,256,gm. Wilamowice
+1788,256,gm. Wilkowice
+1789,256,m. Szczyrk
+1790,257,Bielsko-Bia³a
+1791,258,gm. Bojszowy
+1792,258,gm. Che³m Œl¹ski
+1793,258,m. Bieruñ
+1794,258,m. Imielin
+1795,258,m. Lêdziny
+1796,259,Bytom
+1797,260,Chorzów
+1798,261,gm. Brenna
+1799,261,gm. Chybie
+1800,261,gm. Dêbowiec
+1801,261,gm. Goleszów
+1802,261,gm. Ha¿lach
+1803,261,gm. Istebna
+1804,261,gm. Skoczów
+1805,261,gm. Strumieñ
+1806,261,gm. Zebrzydowice
+1807,261,m. Cieszyn
+1808,261,m. Ustroñ
+1809,261,m. Wis³a
+1810,262,Czêstochowa
+1811,263,gm. Blachownia
+1812,263,gm. D¹browa Zielona
+1813,263,gm. Janów
+1814,263,gm. Kamienica Polska
+1815,263,gm. K³omnice
+1816,263,gm. Koniecpol
+1817,263,gm. Konopiska
+1818,263,gm. Kruszyna
+1819,263,gm. Lelów
+1820,263,gm. Mstów
+1821,263,gm. Mykanów
+1822,263,gm. Olsztyn
+1823,263,gm. Poczesna
+1824,263,gm. Przyrów
+1825,263,gm. Rêdziny
+1826,263,gm. Starcza
+1827,264,D¹browa Górnicza
+1828,265,Gliwice
+1829,266,gm. Giera³towice
+1830,266,gm. Pilchowice
+1831,266,gm. Rudziniec
+1832,266,gm. Soœnicowice
+1833,266,gm. Toszek
+1834,266,gm. Wielowieœ
+1835,266,m. Knurów
+1836,266,m. Pyskowice
+1837,267,Jastrzêbie-Zdrój
+1838,268,Jaworzno
+1839,269,Katowice
+1840,270,gm. K³obuck
+1841,270,gm. Krzepice
+1842,270,gm. Lipie
+1843,270,gm. MiedŸno
+1844,270,gm. Opatów
+1845,270,gm. Panki
+1846,270,gm. Popów
+1847,270,gm. Przystajñ
+1848,270,gm. Wrêczyca Wielka
+1849,271,gm. Boronów
+1850,271,gm. Ciasna
+1851,271,gm. Herby
+1852,271,gm. Kochanowice
+1853,271,gm. Koszêcin
+1854,271,gm. Pawonków
+1855,271,gm. WoŸniki
+1856,271,m. Lubliniec
+1857,272,gm. Ornontowice
+1858,272,gm. Wyry
+1859,272,m. £aziska Górne
+1860,272,m. Miko³ów
+1861,272,m. Orzesze
+1862,273,Mys³owice
+1863,274,gm. Kozieg³owy
+1864,274,gm. Niegowa
+1865,274,gm. Poraj
+1866,274,gm. ¯arki
+1867,274,m. Myszków
+1868,275,Piekary Œl¹skie
+1869,276,gm. Gocza³kowice-Zdrój
+1870,276,gm. Kobiór
+1871,276,gm. MiedŸna
+1872,276,gm. Paw³owice
+1873,276,gm. Pszczyna
+1874,276,gm. Suszec
+1875,277,gm. Kornowac
+1876,277,gm. Krzanowice
+1877,277,gm. Krzy¿anowice
+1878,277,gm. KuŸnia Raciborska
+1879,277,gm. Nêdza
+1880,277,gm. Pietrowice Wielkie
+1881,277,gm. Rudnik
+1882,277,m. Racibórz
+1883,278,Ruda Œl¹ska
+1884,279,gm. Czerwionka-Leszczyny
+1885,279,gm. Gaszowice
+1886,279,gm. Jejkowice
+1887,279,gm. Lyski
+1888,279,gm. Œwierklany
+1889,280,Rybnik
+1890,281,Siemianowice Œl¹skie
+1891,282,Sosnowiec
+1892,283,Œwiêtoch³owice
+1893,284,gm. Krupski M³yn
+1894,284,gm. O¿arowice
+1895,284,gm. Œwierklaniec
+1896,284,gm. Tworóg
+1897,284,gm. Zbros³awice
+1898,284,m. Kalety
+1899,284,m. Miasteczko Œl¹skie
+1900,284,m. Radzionków
+1901,284,m. Tarnowskie Góry
+1902,285,Tychy
+1903,286,gm. Godów
+1904,286,gm. Gorzyce
+1905,286,gm. Lubomia
+1906,286,gm. Marklowice
+1907,286,gm. Mszana
+1908,286,m. Pszów
+1909,286,m. Radlin
+1910,286,m. Rydu³towy
+1911,286,m. Wodzis³aw Œl¹ski
+1912,287,Zabrze
+1913,288,gm. Irz¹dze
+1914,288,gm. Kroczyce
+1915,288,gm. £azy
+1916,288,gm. Ogrodzieniec
+1917,288,gm. Pilica
+1918,288,gm. Szczekociny
+1919,288,gm. W³odowice
+1920,288,gm. ¯arnowiec
+1921,288,m. Porêba
+1922,288,m. Zawiercie
+1923,289,¯ory
+1924,290,gm. Czernichów
+1925,290,gm. Gilowice
+1926,290,gm. Jeleœnia
+1927,290,gm. Koszarawa
+1928,290,gm. Lipowa
+1929,290,gm. £êkawica
+1930,290,gm. £odygowice
+1931,290,gm. Milówka
+1932,290,gm. Radziechowy-Wieprz
+1933,290,gm. Rajcza
+1934,290,gm. Œlemieñ
+1935,290,gm. Œwinna
+1936,290,gm. Ujso³y
+1937,290,gm. Wêgierska Górka
+1938,290,m. ¯ywiec
+1939,291,gm. Busko-Zdrój
+1940,291,gm. Gnojno
+1941,291,gm. Nowy Korczyn
+1942,291,gm. Pacanów
+1943,291,gm. Solec-Zdrój
+1944,291,gm. Stopnica
+1945,291,gm. Tuczêpy
+1946,291,gm. Wiœlica
+1947,292,gm. Imielno
+1948,292,gm. Jêdrzejów
+1949,292,gm. Ma³ogoszcz
+1950,292,gm. Nag³owice
+1951,292,gm. Oksa
+1952,292,gm. Sêdziszów
+1953,292,gm. S³upia (Jêdrzejowska)
+1954,292,gm. Sobków
+1955,292,gm. Wodzis³aw
+1956,293,gm. Bejsce
+1957,293,gm. Czarnocin
+1958,293,gm. Kazimierza Wielka
+1959,293,gm. Opatowiec
+1960,293,gm. Skalbmierz
+1961,294,Kielce
+1962,295,gm. Bieliny
+1963,295,gm. Bodzentyn
+1964,295,gm. Chêciny
+1965,295,gm. Chmielnik
+1966,295,gm. Daleszyce
+1967,295,gm. Górno
+1968,295,gm. £agów
+1969,295,gm. £opuszno
+1970,295,gm. Mas³ów
+1971,295,gm. Miedziana Góra
+1972,295,gm. Mniów
+1973,295,gm. Morawica
+1974,295,gm. Nowa S³upia
+1975,295,gm. Piekoszów
+1976,295,gm. Pierzchnica
+1977,295,gm. Raków
+1978,295,gm. Sitkówka-Nowiny
+1979,295,gm. Strawczyn
+1980,295,gm. Zagnañsk
+1981,296,gm. Fa³ków
+1982,296,gm. Gowarczów
+1983,296,gm. Koñskie
+1984,296,gm. Radoszyce
+1985,296,gm. Ruda Maleniecka
+1986,296,gm. Smyków
+1987,296,gm. St¹porków
+1988,296,S³upia Konecka
+1989,297,gm. Baækowice
+1990,297,gm. Iwaniska
+1991,297,gm. Lipnik
+1992,297,gm. Opatów
+1993,297,gm. O¿arów
+1994,297,gm. Sadowie
+1995,297,gm. Tar³ów
+1996,297,gm. Wojciechowice
+1997,298,gm. Ba³tów
+1998,298,gm. Bodzechów
+1999,298,gm. Æmielów
+2000,298,gm. Kunów
+2001,298,gm. Waœniów
+2002,298,m. Ostrowiec Œwiêtokrzyski
+2003,299,gm. Dzia³oszyce
+2004,299,gm. Kije
+2005,299,gm. Micha³ów
+2006,299,gm. Piñczów
+2007,299,gm. Z³ota
+2008,300,gm. Dwikozy
+2009,300,gm. Klimontów
+2010,300,gm. Koprzywnica
+2011,300,gm. £oniów
+2012,300,gm. Obrazów
+2013,300,gm. Samborzec
+2014,300,gm. Wilczyce
+2015,300,gm. Zawichost
+2016,300,m. Sandomierz
+2017,301,gm. Bli¿yn
+2018,301,gm. £¹czna
+2019,301,gm. Skar¿ysko Koœcielne
+2020,301,gm. Suchedniów
+2021,301,m. Skar¿ysko-Kamienna
+2022,302,gm. Brody
+2023,302,gm. Mirzec
+2024,302,gm. Paw³ów
+2025,302,gm. W¹chock
+2026,302,m. Starachowice
+2027,303,gm. Bogoria
+2028,303,gm. £ubnice
+2029,303,gm. Oleœnica
+2030,303,gm. Osiek
+2031,303,gm. Po³aniec
+2032,303,gm. Rytwiany
+2033,303,gm. Staszów
+2034,303,gm. Szyd³ów
+2035,304,gm. Kluczewsko
+2036,304,gm. Krasocin
+2037,304,gm. Moskorzew
+2038,304,gm. Radków
+2039,304,gm. Secemin
+2040,304,gm. W³oszczowa
+2041,305,gm. Bartoszyce
+2042,305,gm. Bisztynek
+2043,305,gm. Górowo I³aweckie
+2044,305,gm. Sêpopol
+2045,305,m. Bartoszyce
+2046,305,m. Górowo I³aweckie
+2047,306,gm. Braniewo
+2048,306,gm. Frombork
+2049,306,gm. Lelkowo
+2050,306,gm. Pieniê¿no
+2051,306,gm. P³oskinia
+2052,306,gm. Wilczêta
+2053,306,m. Braniewo
+2054,307,gm. Dzia³dowo
+2055,307,gm. I³owo-Osada
+2056,307,gm. Lidzbark
+2057,307,gm. P³oœnica
+2058,307,gm. Rybno
+2059,307,m. Dzia³dowo
+2060,308,Elbl¹g
+2061,309,gm. Elbl¹g
+2062,309,gm. Godkowo
+2063,309,gm. Gronowo Elbl¹skie
+2064,309,gm. Markusy
+2065,309,gm. Milejewo
+2066,309,gm. M³ynary
+2067,309,gm. Pas³êk
+2068,309,gm. Rychliki
+2069,309,gm. Tolkmicko
+2070,310,gm. E³k
+2071,310,gm. Kalinowo
+2072,310,gm. Prostki
+2073,310,gm. Stare Juchy
+2074,310,m. E³k
+2075,311,gm. Gi¿ycko
+2076,311,gm. Kruklanki
+2077,311,gm. Mi³ki
+2078,311,gm. Ryn
+2079,311,gm. Wydminy
+2080,311,m. Gi¿ycko
+2081,312,gm. Banie Mazurskie
+2082,312,gm. Dubeninki
+2083,312,gm. Go³dap
+2084,313,gm. I³awa
+2085,313,gm. Kisielice
+2086,313,gm. Lubawa
+2087,313,gm. Susz
+2088,313,gm. Zalewo
+2089,313,m. I³awa
+2090,313,m. Lubawa
+2091,314,gm. Barciany
+2092,314,gm. Kêtrzyn
+2093,314,gm. Korsze
+2094,314,gm. Reszel
+2095,314,gm. Srokowo
+2096,314,m. Kêtrzyn
+2097,315,gm. Kiwity
+2098,315,gm. Lidzbark Warmiñski
+2099,315,gm. Lubomino
+2100,315,gm. Orneta
+2101,315,m. Lidzbark Warmiñski
+2102,316,gm. Miko³ajki
+2103,316,gm. Mr¹gowo
+2104,316,gm. Piecki
+2105,316,gm. Sorkwity
+2106,316,m. Mr¹gowo
+2107,317,gm. Janowiec Koœcielny
+2108,317,gm. Janowo
+2109,317,gm. Koz³owo
+2110,317,gm. Nidzica
+2111,318,gm. Biskupiec
+2112,318,gm. Grodziczno
+2113,318,gm. Kurzêtnik
+2114,318,gm. Nowe Miasto Lubawskie
+2115,318,m. Nowe Miasto Lubawskie
+2116,319,gm. Kowale Oleckie
+2117,319,gm. Olecko
+2118,319,gm. Œwiêtajno
+2119,319,gm. Wieliczki
+2120,320,Olsztyn
+2121,321,gm. Barczewo
+2122,321,gm. Biskupiec
+2123,321,gm. Dobre Miasto
+2124,321,gm. Dywity
+2125,321,gm. Gietrzwa³d
+2126,321,gm. Jeziorany
+2127,321,gm. Jonkowo
+2128,321,gm. Kolno
+2129,321,gm. Olsztynek
+2130,321,gm. Purda
+2131,321,gm. Stawiguda
+2132,321,gm. Œwi¹tki
+2133,322,gm. D¹brówno
+2134,322,gm. Grunwald
+2135,322,gm. £ukta
+2136,322,gm. Ma³dyty
+2137,322,gm. Mi³akowo
+2138,322,gm. Mi³om³yn
+2139,322,gm. Mor¹g
+2140,322,gm. Ostróda
+2141,322,m. Ostróda
+2142,323,gm. Bia³a Piska
+2143,323,gm. Orzysz
+2144,323,gm. Pisz
+2145,323,gm. Ruciane-Nida
+2146,324,gm. DŸwierzuty
+2147,324,gm. Jedwabno
+2148,324,gm. Pasym
+2149,324,gm. Rozogi
+2150,324,gm. Szczytno
+2151,324,gm. Œwiêtajno
+2152,324,gm. Wielbark
+2153,324,m. Szczytno
+2154,325,gm. Budry
+2155,325,gm. Pozezdrze
+2156,325,gm. Wêgorzewo
+2157,326,gm. Budzyñ
+2158,326,gm. Chodzie¿
+2159,326,gm. Margonin
+2160,326,gm. Szamocin
+2161,326,m. Chodzie¿
+2162,327,gm. Czarnków
+2163,327,gm. Drawsko
+2164,327,gm. Krzy¿ Wielkopolski
+2165,327,gm. Lubasz
+2166,327,gm. Po³ajewo
+2167,327,gm. Trzcianka
+2168,327,gm. Wieleñ
+2169,327,m. Czarnków
+2170,328,gm. Czerniejewo
+2171,328,gm. Gniezno
+2172,328,gm. Kiszkowo
+2173,328,gm. K³ecko
+2174,328,gm. £ubowo
+2175,328,gm. Mieleszyn
+2176,328,gm. Niechanowo
+2177,328,gm. Trzemeszno
+2178,328,gm. Witkowo
+2179,328,m. Gniezno
+2180,329,gm. Borek Wielkopolski
+2181,329,gm. Gostyñ
+2182,329,gm. Krobia
+2183,329,gm. Pêpowo
+2184,329,gm. Piaski
+2185,329,gm. Pogorzela
+2186,329,gm. Poniec
+2187,330,gm. Granowo
+2188,330,gm. Grodzisk Wielkopolski
+2189,330,gm. Kamieniec
+2190,330,gm. Rakoniewice
+2191,330,gm. Wielichowo
+2192,331,gm. Jaraczewo
+2193,331,gm. Jarocin
+2194,331,gm. Kotlin
+2195,331,gm. ¯erków
+2196,332,gm. Blizanów
+2197,332,gm. Brzeziny
+2198,332,gm. Ceków-Kolonia
+2199,332,gm. Godziesze Wielkie
+2200,332,gm. KoŸminek
+2201,332,gm. Lisków
+2202,332,gm. Mycielin
+2203,332,gm. Opatówek
+2204,332,gm. Stawiszyn
+2205,332,gm. Szczytniki
+2206,332,gm. ¯elazków
+2207,333,Kalisz
+2208,334,gm. Baranów
+2209,334,gm. Bralin
+2210,334,gm. Kêpno
+2211,334,gm. £êka Opatowska
+2212,334,gm. Perzów
+2213,334,gm. Rychtal
+2214,334,gm. Trzcinica
+2215,335,gm. Babiak
+2216,335,gm. Chodów
+2217,335,gm. D¹bie
+2218,335,gm. Grzegorzew
+2219,335,gm. K³odawa
+2220,335,gm. Ko³o
+2221,335,gm. Koœcielec
+2222,335,gm. Olszówka
+2223,335,gm. Osiek Ma³y
+2224,335,gm. Przedecz
+2225,335,m. Ko³o
+2226,336,Konin
+2227,337,gm. Golina
+2228,337,gm. Grodziec
+2229,337,gm. Kazimierz Biskupi
+2230,337,gm. Kleczew
+2231,337,gm. Kramsk
+2232,337,gm. Krzymów
+2233,337,gm. Rychwa³
+2234,337,gm. Rzgów
+2235,337,gm. Skulsk
+2236,337,gm. Sompolno
+2237,337,gm. Stare Miasto
+2238,337,gm. Œlesin
+2239,337,gm. Wierzbinek
+2240,337,gm. Wilczyn
+2241,338,gm. Czempiñ
+2242,338,gm. Koœcian
+2243,338,gm. Krzywiñ
+2244,338,gm. Œmigiel
+2245,338,m. Koœcian
+2246,339,gm. Kobylin
+2247,339,gm. KoŸmin Wielkopolski
+2248,339,gm. Krotoszyn
+2249,339,gm. Rozdra¿ew
+2250,339,gm. Zduny
+2251,339,m. Sulmierzyce
+2252,340,gm. Krzemieniewo
+2253,340,gm. Lipno
+2254,340,gm. Osieczna
+2255,340,gm. Rydzyna
+2256,340,gm. Œwiêciechowa
+2257,340,gm. Wijewo
+2258,340,gm. W³oszakowice
+2259,341,Leszno
+2260,342,gm. Chrzypsko Wielkie
+2261,342,gm. Kwilcz
+2262,342,gm. Miêdzychód
+2263,342,gm. Sieraków
+2264,343,gm. Kuœlin
+2265,343,gm. Lwówek
+2266,343,gm. Miedzichowo
+2267,343,gm. Nowy Tomyœl
+2268,343,gm. Opalenica
+2269,343,gm. Zb¹szyñ
+2270,344,gm. Oborniki
+2271,344,gm. RogoŸno
+2272,344,gm. Ryczywó³
+2273,345,gm. Nowe Skalmierzyce
+2274,345,gm. Odolanów
+2275,345,gm. Ostrów Wielkopolski
+2276,345,gm. Przygodzice
+2277,345,gm. Raszków
+2278,345,gm. Sieroszewice
+2279,345,gm. Soœnie
+2280,345,m. Ostrów Wielkopolski
+2281,346,gm. Czajków
+2282,346,gm. Doruchów
+2283,346,gm. Grabów nad Prosn¹
+2284,346,gm. Kobyla Góra
+2285,346,gm. Kraszewice
+2286,346,gm. Mikstat
+2287,346,gm. Ostrzeszów
+2288,347,gm. Bia³oœliwie
+2289,347,gm. Kaczory
+2290,347,gm. £ob¿enica
+2291,347,gm. Miasteczko Krajeñskie
+2292,347,gm. Szyd³owo
+2293,347,gm. Ujœcie
+2294,347,gm. Wyrzysk
+2295,347,gm. Wysoka
+2296,347,m. Pi³a
+2297,348,gm. Chocz
+2298,348,gm. Czermin
+2299,348,gm. Dobrzyca
+2300,348,gm. Giza³ki
+2301,348,gm. Go³uchów
+2302,348,gm. Pleszew
+2303,349,Poznañ
+2304,350,gm. Buk
+2305,350,gm. Czerwonak
+2306,350,gm. Dopiewo
+2307,350,gm. Kleszczewo
+2308,350,gm. Komorniki
+2309,350,gm. Kostrzyn
+2310,350,gm. Kórnik
+2311,350,gm. Mosina
+2312,350,gm. Murowana Goœlina
+2313,350,gm. Pobiedziska
+2314,350,gm. Rokietnica
+2315,350,gm. Stêszew
+2316,350,gm. Suchy Las
+2317,350,gm. Swarzêdz
+2318,350,gm. Tarnowo Podgórne
+2319,350,m. Luboñ
+2320,350,m. Puszczykowo
+2321,351,gm. Bojanowo
+2322,351,gm. Jutrosin
+2323,351,gm. Miejska Górka
+2324,351,gm. Pakos³aw
+2325,351,gm. Rawicz
+2326,352,gm. L¹dek
+2327,352,gm. Orchowo
+2328,352,gm. Ostrowite
+2329,352,gm. Powidz
+2330,352,gm. S³upca
+2331,352,gm. Strza³kowo
+2332,352,gm. Zagórów
+2333,352,m. S³upca
+2334,353,gm. Duszniki
+2335,353,gm. KaŸmierz
+2336,353,gm. Obrzycko
+2337,353,gm. Ostroróg
+2338,353,gm. Pniewy
+2339,353,gm. Szamotu³y
+2340,353,gm. Wronki
+2341,353,m. Obrzycko
+2342,354,gm. Dominowo
+2343,354,gm. Krzykosy
+2344,354,gm. Nowe Miasto nad Wart¹
+2345,354,gm. Œroda Wielkopolska
+2346,354,gm. Zaniemyœl
+2347,355,gm. Brodnica
+2348,355,gm. Dolsk
+2349,355,gm. Ksi¹¿ Wielkopolski
+2350,355,gm. Œrem
+2351,356,gm. Brudzew
+2352,356,gm. Dobra
+2353,356,gm. Kawêczyn
+2354,356,gm. Malanów
+2355,356,gm. Przykona
+2356,356,gm. Tuliszków
+2357,356,gm. Turek
+2358,356,gm. W³adys³awów
+2359,356,m. Turek
+2360,357,gm. Damas³awek
+2361,357,gm. Go³añcz
+2362,357,gm. Mieœcisko
+2363,357,gm. Skoki
+2364,357,gm. Wapno
+2365,357,gm. W¹growiec
+2366,357,m. W¹growiec
+2367,358,gm. Przemêt
+2368,358,gm. Siedlec
+2369,358,gm. Wolsztyn
+2370,359,gm. Ko³aczkowo
+2371,359,gm. Mi³os³aw
+2372,359,gm. Nekla
+2373,359,gm. Pyzdry
+2374,359,gm. Wrzeœnia
+2375,360,gm. Jastrowie
+2376,360,gm. Krajenka
+2377,360,gm. Lipka
+2378,360,gm. Okonek
+2379,360,gm. Tarnówka
+2380,360,gm. Zakrzewo
+2381,360,gm. Z³otów
+2382,360,m. Z³otów
+2383,361,gm. Bia³ogard
+2384,361,gm. Karlino
+2385,361,gm. Tychowo
+2386,361,m. Bia³ogard
+2387,362,gm. Bierzwnik
+2388,362,gm. Choszczno
+2389,362,gm. Drawno
+2390,362,gm. Krzêcin
+2391,362,gm. Pe³czyce
+2392,362,gm. Recz
+2393,363,gm. Czaplinek
+2394,363,gm. Drawsko Pomorskie
+2395,363,gm. Kalisz Pomorski
+2396,363,gm. Wierzchowo
+2397,363,gm. Z³ocieniec
+2398,364,gm. Goleniów
+2399,364,gm. Maszewo
+2400,364,gm. Nowogard
+2401,364,gm. Osina
+2402,364,gm. Przybiernów
+2403,364,gm. Stepnica
+2404,365,gm. Brojce
+2405,365,gm. Gryfice
+2406,365,gm. Karnice
+2407,365,gm. P³oty
+2408,365,gm. Rewal
+2409,365,gm. Trzebiatów
+2410,366,gm. Banie
+2411,366,gm. Cedynia
+2412,366,gm. Chojna
+2413,366,gm. Gryfino
+2414,366,gm. Mieszkowice
+2415,366,gm. Moryñ
+2416,366,gm. Stare Czarnowo
+2417,366,gm. Trzciñsko-Zdrój
+2418,366,gm. Widuchowa
+2419,367,gm. Dziwnów
+2420,367,gm. Golczewo
+2421,367,gm. Kamieñ Pomorski
+2422,367,gm. Miêdzyzdroje
+2423,367,gm. Œwierzno
+2424,367,gm. Wolin
+2425,368,gm. Dygowo
+2426,368,gm. Goœcino
+2427,368,gm. Ko³obrzeg
+2428,368,gm. Rymañ
+2429,368,gm. Siemyœl
+2430,368,gm. Ustronie Morskie
+2431,368,m. Ko³obrzeg
+2432,369,Koszalin
+2433,370,gm. Bêdzino
+2434,370,gm. Biesiekierz
+2435,370,gm. Bobolice
+2436,370,gm. Manowo
+2437,370,gm. Mielno
+2438,370,gm. Polanów
+2439,370,gm. Sianów
+2440,370,gm. Œwieszyno
+2441,371,gm. Dobra
+2442,371,gm. £obez
+2443,371,gm. Radowo Ma³e
+2444,371,gm. Resko
+2445,371,gm. Wêgorzyno
+2446,372,gm. Barlinek
+2447,372,gm. Boleszkowice
+2448,372,gm. Dêbno
+2449,372,gm. Myœlibórz
+2450,372,gm. Nowogródek Pomorski
+2451,373,gm. Dobra (Szczeciñska)
+2452,373,gm. Ko³baskowo
+2453,373,gm. Nowe Warpno
+2454,373,gm. Police
+2455,374,gm. Bielice
+2456,374,gm. Kozielice
+2457,374,gm. Lipiany
+2458,374,gm. Przelewice
+2459,374,gm. Pyrzyce
+2460,374,gm. Warnice
+2461,375,gm. Dar³owo
+2462,375,gm. Malechowo
+2463,375,gm. Postomino
+2464,375,gm. S³awno
+2465,375,m. Dar³owo
+2466,375,m. S³awno
+2467,376,gm. Chociwel
+2468,376,gm. Dobrzany
+2469,376,gm. Dolice
+2470,376,gm. Iñsko
+2471,376,gm. Kobylanka
+2472,376,gm. Marianowo
+2473,376,gm. Stara D¹browa
+2474,376,gm. Stargard
+2475,376,gm. Suchañ
+2476,376,m. Stargard
+2477,377,Szczecin
+2478,378,gm. Barwice
+2479,378,gm. Bia³y Bór
+2480,378,gm. Borne Sulinowo
+2481,378,gm. Grzmi¹ca
+2482,378,gm. Szczecinek
+2483,378,m. Szczecinek
+2484,379,gm. Brze¿no
+2485,379,gm. Po³czyn-Zdrój
+2486,379,gm. R¹bino
+2487,379,gm. S³awoborze
+2488,379,gm. Œwidwin
+2489,379,m. Œwidwin
+2490,380,Œwinoujœcie
+2491,381,gm. Cz³opa
+2492,381,gm. Miros³awiec
+2493,381,gm. Tuczno
+2494,381,gm. Wa³cz
+2495,381,m. Wa³cz
