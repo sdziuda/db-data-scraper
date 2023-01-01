@@ -55,8 +55,6 @@ for region in regions:
 
     if regionId == "19":
         districts = districts[0:1]
-    else:
-        continue
 
     for district in districts:
         districtId = district.attrs["data-id"]
