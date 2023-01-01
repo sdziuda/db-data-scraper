@@ -5,8 +5,8 @@ import csv
 
 url = "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/komitety"
 driver = webdriver.Chrome()
-committeesCsv = open("committees.csv", "w", encoding="utf-8")
-candidatesCsv = open("candidates.csv", "w", encoding="utf-8")
+committeesCsv = open("res/committees.csv", "w", encoding="utf-8")
+candidatesCsv = open("res/candidates.csv", "w", encoding="utf-8")
 
 driver.get(url)
 time.sleep(1)
