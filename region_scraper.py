@@ -5,10 +5,10 @@ import csv
 
 url = "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/organy_wyborcze/obwodowe/pl"
 driver = webdriver.Chrome()
-voivodeshipsCsv = open("voivodeships.csv", "w")
-districtsCsv = open("districts.csv", "w")
-municipalitiesCsv = open("municipalities.csv", "w")
-localesCsv = open("locales.csv", "w")
+voivodeshipsCsv = open("voivodeships.csv", "w", encoding="utf-8")
+districtsCsv = open("districts.csv", "w", encoding="utf-8")
+municipalitiesCsv = open("municipalities.csv", "w", encoding="utf-8")
+localesCsv = open("locales.csv", "w", encoding="utf-8")
 
 driver.get(url)
 time.sleep(1)

@@ -1,15 +1,19 @@
 from bs4 import BeautifulSoup
 from selenium import webdriver
+import time
 import csv
 
 url = "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/komitety"
 driver = webdriver.Chrome()
-committeesCsv = open("committees.csv", "w")
+committeesCsv = open("committees.csv", "w", encoding="utf-8")
+candidatesCsv = open("candidates.csv", "w", encoding="utf-8")
 
 driver.get(url)
+time.sleep(1)
 html = driver.page_source
 soup = BeautifulSoup(html, "html.parser")
-i = 0
+committees_count = 0
+candidates_count = 0
 
 # scraping all HTML code containing committees
 committees_even = soup.find_all("tr", {"class": "even"})
@@ -20,12 +24,51 @@ committees = committees_even + committees_odd
 try:
     writer = csv.writer(committeesCsv)
     writer.writerow(("id", "nazwa"))
+    writer = csv.writer(candidatesCsv)
+    writer.writerow(("id", "pierwsze_imie", "drugie_imie", "nazwisko", "id_komitetu"))
     for committee in committees:
+        writer = csv.writer(committeesCsv)
+        number = committee.attrs["data-id"]
         name = committee.findAll("td")[1].text
-        takes_part = committee.findAll("td")[4].text
-        if takes_part == "tak":
+        takes_part = committee.findAll("td")[0].text
+
+        if takes_part != "999":
             print(name)
-            writer.writerow((i, name))
-            i += 1
+            writer.writerow((committees_count, name))
+
+            url = "https://sejmsenat2019.pkw.gov.pl/sejmsenat2019/pl/komitety/" + number + "?wybory=sejm"
+            driver.get(url)
+            time.sleep(1)
+            html = driver.page_source
+            soup = BeautifulSoup(html, "html.parser")
+            writer = csv.writer(candidatesCsv)
+
+            # scraping all HTML code containing candidates from this committee
+            bodies = soup.findAll("tbody")
+
+            # scraping name of each candidate that takes part in the elections and writing it to csv file
+            for body in bodies:
+                candidates = body.findAll("tr")
+                for candidate in candidates:
+                    if candidate.has_attr("role") and candidate.attrs["role"] == "row":
+                        name = candidate.findAll("td")[1].text
+                        surname = name.split(" ")[0]
+                        first_name = name.split(" ")[1]
+
+                        if len(name.split(" ")) > 2:
+                            second_name = name.split(" ")[2]
+                        else:
+                            second_name = ""
+
+                        if first_name.isupper():
+                            surname = surname + " " + first_name
+                            first_name = second_name
+                            second_name = ""
+
+                        writer.writerow((candidates_count, first_name, second_name, surname, committees_count))
+
+                        candidates_count += 1
+
+            committees_count += 1
 finally:
     committeesCsv.close()
