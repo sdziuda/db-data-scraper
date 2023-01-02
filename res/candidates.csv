@@ -208,7 +208,7 @@ id,pierwsze_imie,drugie_imie,nazwisko,id_komitetu
 206,Eugeniusz,,ROŻEK,1
 207,Julita,Monika,SZKUDLAREK,1
 208,Tomasz,,WALCZAK,1
-209,-,ZAWADZKA,ŻEGILEWICZ,1
+209,Katarzyna,Magdalena,ŻEGILEWICZ-ZAWADZKA,1
 210,Paweł,,WITA,1
 211,Natalia,Roksana,KOMAJDA,1
 212,Leszek,,SOKOŁOWSKI,1
@@ -971,7 +971,7 @@ id,pierwsze_imie,drugie_imie,nazwisko,id_komitetu
 969,Jędrzej,Maciej,ŚWIERCZYŃSKI,2
 970,Małgorzata,Urszula,BEŚLERZEWSKA,2
 971,Jacek,Julian,IWANCZ,2
-972,Joanna,,BEN AMARA,2
+972,Joanna,Maria,BEN AMARA,2
 973,Marta,Magdalena,TUMIDALSKA,2
 974,Grzegorz,Juliusz,SCHETYNA,2
 975,Małgorzata,Elżbieta,TRACZ,2
@@ -1388,7 +1388,7 @@ id,pierwsze_imie,drugie_imie,nazwisko,id_komitetu
 1386,Wojciech,,HERNER,2
 1387,Halina,Justyna,BONECKA,2
 1388,Tomasz,Paweł,SZTURO,2
-1389,-,MIKULSKA,ORZECHOWSKA,2
+1389,Grażyna,,ORZECHOWSKA-MIKULSKA,2
 1390,Piotr,Michał,WASILEWSKI,2
 1391,Magdalena,Jadwiga,MIERZEJEWSKA-WAŚ,2
 1392,Patryk,Jan,LUBOIŃSKI,2
@@ -1841,7 +1841,7 @@ id,pierwsze_imie,drugie_imie,nazwisko,id_komitetu
 1839,Marek,Zdzisław,STANKIEWICZ,2
 1840,Zbigniew,Jacek,CHOJECKI,2
 1841,Zygmunt,,SIARKIEWICZ,2
-1842,-,SZAWIEL,LALAK,2
+1842,Lidia,,LALAK-SZAWIEL,2
 1843,Hubert,,ANDRYCH,2
 1844,Joanna,,NAPIWODZKA,2
 1845,Wiktor,,TOŁOCZKO,2
@@ -3754,7 +3754,7 @@ id,pierwsze_imie,drugie_imie,nazwisko,id_komitetu
 3752,Krzysztof,Jakub,BŁASZCZYK,6
 3753,Jadwiga,Katarzyna,EMILEWICZ,6
 3754,Tadeusz,Antoni,DZIUBA,6
-3755,SĘK,,SZYNKOWSKI VEL,6
+3755,Szymon,Andrzej,SZYNKOWSKI VEL SĘK,6
 3756,Małgorzata,Irena,STRYJSKA,6
 3757,Tadeusz,,ZYSK,6
 3758,Bartłomiej,Piotr,WRÓBLEWSKI,6
@@ -4507,7 +4507,7 @@ id,pierwsze_imie,drugie_imie,nazwisko,id_komitetu
 4505,Urszula,Monika,KUFEL,7
 4506,Anna,Maria,JANKOWIAK,7
 4507,Krzysztof,Stanisław,KRAJEWSKI,7
-4508,MASTERCZUK,,SZAJKO VEL,7
+4508,Magdalena,Ilona,SZAJKO VEL MASTERCZUK,7
 4509,Anita,Sara,ZAWISZ,7
 4510,Tomasz,Bogdan,BRZEZINA,7
 4511,Jerzy,Jan,JANOSKA,7
@@ -4534,7 +4534,7 @@ id,pierwsze_imie,drugie_imie,nazwisko,id_komitetu
 4532,Łukasz,Sylwester,WILCZYŃSKI,7
 4533,Michał,,SOKOLNICKI,7
 4534,Łukasz,Szczepan,OSPARA,7
-4535,-,LEYDO,PIASECKA,7
+4535,Mariola,Nina,PIASECKA-LEYDO,7
 4536,Juliusz,,BILSKI,7
 4537,Dawid,Stefan,KUROWSKI,7
 4538,Roksana,Adrianna,ORANIEC,7
@@ -4819,7 +4819,7 @@ id,pierwsze_imie,drugie_imie,nazwisko,id_komitetu
 4817,Andrzej,Robert,KUSZYK,9
 4818,Arkadiusz,,POGONOWSKI,9
 4819,Jolanta,Marta,ZARYCHTA,9
-4820,Adrian,,DANG XUAN,9
+4820,Adrian,Hai,DANG XUAN,9
 4821,Agnieszka,Monika,MAZUR,9
 4822,Arkadiusz,Jacek,MISIAK,9
 4823,Dariusz,,KRZYSZTOFIK,9

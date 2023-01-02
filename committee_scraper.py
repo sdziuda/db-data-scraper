@@ -52,20 +52,21 @@ try:
                 for candidate in candidates:
                     if candidate.has_attr("role") and candidate.attrs["role"] == "row":
                         name = candidate.findAll("td")[1].text
-                        surname = name.split(" ")[0]
-                        first_name = name.split(" ")[1]
+                        surname = ""
+                        first_name = ""
+                        second_name = ""
 
-                        if len(name.split(" ")) > 2:
-                            second_name = name.split(" ")[2]
-                        else:
-                            second_name = ""
+                        for part in name.split(" "):
+                            if part == "-":
+                                surname = surname[:-1] + part
+                            elif part.isupper():
+                                surname = surname + part + " "
+                            elif first_name == "":
+                                first_name = part
+                            else:
+                                second_name = part
 
-                        if first_name.isupper():
-                            surname = surname + " " + first_name
-                            first_name = second_name
-                            second_name = ""
-
-                        writer.writerow((candidates_count, first_name, second_name, surname, committees_count))
+                        writer.writerow((candidates_count, first_name, second_name, surname[:-1], committees_count))
 
                         candidates_count += 1
 
