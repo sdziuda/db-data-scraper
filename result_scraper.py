@@ -9,9 +9,9 @@ candidatesToId = {}
 
 for r in inputCsv:
     if r[2] != "":
-        candidatesToId[(r[3] + " " + r[1] + " " + r[2]).encode()] = r[0]
+        candidatesToId[(r[3] + r[1] + r[2]).replace(" ", "").encode()] = r[0]
     else:
-        candidatesToId[(r[3] + " " + r[1]).encode()] = r[0]
+        candidatesToId[(r[3] + r[1]).replace(" ", "").encode()] = r[0]
 
 inputCsv = open("res/locales.csv", "r", encoding="utf-8")
 localesToId = {}
@@ -94,6 +94,7 @@ for region in regions:
                     candidates = body.findAll("tr")
                     for candidate in candidates:
                         candidateName = candidate.findAll("td")[1].text
+                        candidateName = candidateName.replace(" ", "")
                         candidateId = candidatesToId[candidateName.encode()]
                         votes = candidate.findAll("td")[2].getText()
                         votes = votes.lstrip("0")
@@ -122,6 +123,14 @@ for region in regions:
 
                 body = soup.findAll("div", {"class": "proto"})
                 tables = body[0].findAll("div", {"class": "table-responsive"})
+
+                while len(tables) == 0:
+                    time.sleep(0.2)
+                    html = driver.page_source
+                    soup = BeautifulSoup(html, "html.parser")
+                    body = soup.findAll("div", {"class": "proto"})
+                    tables = body[0].findAll("div", {"class": "table-responsive"})
+
                 locales = tables[0].findAll("tr")
 
                 for locale in locales[1:]:
@@ -143,6 +152,7 @@ for region in regions:
                         candidates = body.findAll("tr")
                         for candidate in candidates:
                             candidateName = candidate.findAll("td")[1].text
+                            candidateName = candidateName.replace(" ", "")
                             candidateId = candidatesToId[candidateName.encode()]
                             votes = candidate.findAll("td")[2].getText()
                             votes = votes.lstrip("0")
