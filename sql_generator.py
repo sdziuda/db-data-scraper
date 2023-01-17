@@ -10,31 +10,31 @@ def generate_sql_queries_from_file(file_name, table_name):
     column_names = input_csv[0]
     column_values = input_csv[1:]
     res = []
-    lens = []
-    lens_names = []
-    lens_surnames = []
     for value in column_values:
         if table_name == "wojewodztwo" or table_name == "komitet":
-            lens += [len(value[1])]
-        elif table_name != "kandydat":
-            lens += [len(value[2])]
+            val = "'" + value[1] + "'"
+            value = [value[0], val]
+        elif table_name != "kandydat" and table_name != "wyniki":
+            val = "'" + value[2] + "'"
+            value = [value[0], value[1], val]
+        elif table_name == "wyniki":
+            if int(value[0]) < 12620 or int(value[0]) > 13400 or value[2] == '0':
+                continue
 
         if table_name == "kandydat" and value[2] != "":
-            lens_names += [len(value[1])]
-            lens_names += [len(value[2])]
-            lens_surnames += [len(value[3])]
+            first_name = "'" + value[1] + "'"
+            second_name = "'" + value[2] + "'"
+            surname = "'" + value[3] + "'"
+            value = [value[0], first_name, second_name, surname, value[4]]
             res += [generate_sql_query(table_name, column_names, value)]
         elif table_name == "kandydat" and value[2] == "":
-            lens_names += [len(value[1])]
-            lens_surnames += [len(value[3])]
+            first_name = "'" + value[1] + "'"
+            surname = "'" + value[3] + "'"
+            value = [value[0], first_name, surname, value[4]]
             res += [generate_sql_query(table_name, [column_names[0], column_names[1], column_names[3], column_names[4]],
-                                       [value[0], value[1], value[3], value[4]])]
+                                       value)]
         else:
             res += [generate_sql_query(table_name, column_names, value)]
-    if table_name != "kandydat":
-        print(table_name + " " + str(max(lens)))
-    else:
-        print(table_name + " " + str(max(lens_names)) + " " + str(max(lens_surnames)))
 
     return res
 
@@ -44,15 +44,13 @@ def generate_sql_locales(file_name, table_name):
     input_csv = open(file_name, "r", encoding="utf-8")
     column_names = input_csv.readline().strip().split(",")
     res = []
-    lens = []
-
     for r in input_csv:
         r = r.strip()
         if len(r) > 0:
-            res += [generate_sql_query(table_name, column_names,
-                                       [r.split(",")[0], r.split(",")[1], "".join(r.split(",")[2:])])]
-            lens += [len("".join(r.split(",")[2:]))]
-    print(table_name + " " + str(max(lens)))
+            val = ",".join(r.split(",")[2:])
+            val = "'" + val[1:-1].replace("'", "\"") + "'"
+            res += [generate_sql_query(table_name, column_names, [r.split(",")[0], r.split(",")[1], val])]
+
     return res
 
 
