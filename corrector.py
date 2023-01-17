@@ -1,4 +1,5 @@
 import csv
+import numpy as np
 
 inputCsv = open("res/locales.csv", "r", encoding="utf-8")
 outputCsv = open("res/locales_corrected.csv", "w", encoding="utf-8")
@@ -18,6 +19,24 @@ for r in inputCsv:
 
 for key in correctLocales:
     if key[1] == "siedziba":
-        writer.writerow((key[0], correctLocales[key], key[1]))
+        writer.writerow((correctLocales[key], key[0], key[1]))
     else:
-        writer.writerow((key[0], correctLocales[key], key[1][1:-1]))
+        writer.writerow((correctLocales[key], key[0], key[1][1:-1]))
+
+inputCsv.close()
+outputCsv.close()
+inputCsv = np.loadtxt("res/results.csv", delimiter=",", dtype=str, skiprows=1, encoding="utf-8")
+outputCsv = open("res/results_corrected.csv", "w", encoding="utf-8")
+writer = csv.writer(outputCsv)
+writer.writerow(("id_lokalu", "id_kandydata", "ile"))
+correctResults = {}
+
+for r in inputCsv:
+    if (r[0], r[1]) not in correctResults:
+        correctResults[(r[0], r[1])] = int(r[2])
+    else:
+        correctResults[(r[0], r[1])] += int(r[2])
+
+for key in correctResults:
+    writer.writerow((key[0], key[1], correctResults[key]))
+
