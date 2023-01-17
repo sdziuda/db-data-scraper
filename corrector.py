@@ -13,7 +13,7 @@ for r in inputCsv:
         regionId = r.split(",")[1]
         localeName = ""
         for i in range(2, len(r.split(","))):
-            localeName += r.split(",")[i] + ","
+            localeName += r.split(",")[i].replace("\"\"", "\'") + ","
         localeName = localeName[:-1]
         correctLocales[(regionId, localeName)] = localeId
 
