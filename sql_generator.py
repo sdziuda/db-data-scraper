@@ -1,3 +1,5 @@
+# coding=windows-1250
+
 import numpy as np
 
 
@@ -48,7 +50,7 @@ def generate_sql_locales(file_name, table_name):
         r = r.strip()
         if len(r) > 0:
             val = ",".join(r.split(",")[2:])
-            val = "'" + val[1:-1].replace("'", "\"") + "'"
+            val = "'" + val[1:-1].replace("'", "\"").replace("„", "\"").replace("”", "\"") + "'"
             res += [generate_sql_query(table_name, column_names, [r.split(",")[0], r.split(",")[1], val])]
 
     return res
